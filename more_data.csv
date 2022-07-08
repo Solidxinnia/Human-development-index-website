@@ -1,0 +1,1226 @@
+﻿Country,Region,HDI,LE,GNI,EYS,MYS,Label
+Afghanistan,Total,0.496,64.49,1.746,10.1,3.93,LOW
+Afghanistan,Central (Kabul Wardak Kapisa Logar Parwan Panjsher),0.574,66.22,2.165,12.7,6.55,LOW
+Afghanistan,Central Highlands (Bamyan Daikundi),0.484,64.89,1.318,12.3,2.44,LOW
+Afghanistan,East (Nangarhar Kunar Laghman Nooristan),0.478,64.01,1.299,9.74,4.38,LOW
+Afghanistan,North (Samangan Sar-e-Pul Balkh Jawzjan Faryab),0.516,63.42,2.065,11.3,4.03,LOW
+Afghanistan,North East (Baghlan Takhar Badakhshan Kunduz),0.461,63.1,1.506,9.17,3.15,LOW
+Afghanistan,South (Uruzgan Helmand Zabul Nimroz Kandahar),0.423,64.33,1.695,6.29,2.56,LOW
+Afghanistan,South East (Ghazni Paktya Paktika Khost),0.49,66.78,1.601,10.5,2.91,LOW
+Afghanistan,West (Ghor Herat Badghis Farah),0.462,63.92,1.587,9.2,2.81,LOW
+Algeria,Total,0.759,76.69,13.64,14.7,7.99,MEDIUM
+Algeria,"Hauts Plateaux Centre (Djelfa, Laghouat, MSila)",0.725,75,12.29,14,6.93,MEDIUM
+Algeria,"Hauts Plateaux Est (Setif, Batna, Khenchela, Bordj Bou Arreridj, Oum El Bouaghi, Tebessa)",0.759,77.24,13.95,14.6,7.84,MEDIUM
+Algeria,"Hauts Plateaux Ouest (Tiaret, Saida, Tissemsilt, Naama, El Bayadh)",0.737,76.26,13.06,14.5,6.83,MEDIUM
+Algeria,"Nord Centre (Alger, Blida, Boumerdes, Tipaza, Bouira, Medea, Tizi-Ouzou, Bejaia, Chlef, Ain Defla)",0.772,77.79,13.66,15.1,8.25,MEDIUM
+Algeria,"Nord Est (Annaba, Constantine, Skikda, Jijel, Mila, Souk Ahras, El Tarf, Guelma)",0.778,77.75,13.57,15.4,8.6,MEDIUM
+Algeria,"Nord Ouest (Oran, Tlemcen, Mostaganem, Ain Temouchent, Relizane, Sidi Bel Abbes, Mascara)",0.746,75.92,13.95,14,7.72,MEDIUM
+Algeria,"Sud (Bechar, Tindouf, Adrar, Ghardaia, Biskra, El Oued, Ouargla, Tamanrasset,Illizi)",0.749,74.75,14.08,14.5,8,MEDIUM
+Argentina,Total,0.83,76.52,17.61,17.6,10.6,MEDIUM
+Argentina,"Catamarca, La Rioja, San Juan",0.831,76.52,17.69,17.6,10.6,MEDIUM
+Argentina,"Chaco, Formosa",0.806,76.52,13.75,17.6,9.62,MEDIUM
+Argentina,"Chubut, Neuquen, Rio Negro, Santa Cruz, Tierra del Fuego",0.837,76.52,20.41,17.3,10.7,MEDIUM
+Argentina,City of Buenos Aires,0.867,76.52,20.47,19.8,13,MEDIUM
+Argentina,Cordoba,0.834,76.52,18.48,17.8,10.6,MEDIUM
+Argentina,"Corrientes, Entre Rios, Misiones",0.812,76.52,16.98,16.8,9.75,MEDIUM
+Argentina,"Jujuy, Salta",0.822,76.52,15.1,18.2,10.2,MEDIUM
+Argentina,"La Pampa, San Luis, Mendoza",0.838,76.52,19.97,17.8,10.5,MEDIUM
+Argentina,Rest of Buenos Aires,0.82,76.52,16.8,17.1,10.3,MEDIUM
+Argentina,Santa Fe,0.84,76.52,18.6,18.6,10.9,MEDIUM
+Argentina,"Santiago del Estero, Tucuman",0.816,76.52,16.77,16.9,10.2,MEDIUM
+Australia,Total,0.939,83.28,44.1,22.1,12.7,HIGH
+Australia,Australian Capital Territory,0.972,84.35,59.18,24.1,13.8,VERY HIGH
+Australia,New South Wales,0.94,83.23,44.78,22.2,12.7,HIGH
+Australia,Northern Territory,0.926,78.46,60.21,21.7,12.4,VERY HIGH
+Australia,Queensland,0.932,82.93,41.95,21.8,12.5,HIGH
+Australia,South Australia,0.926,83.18,37.59,21.6,12.4,HIGH
+Australia,Tasmania,0.908,81.81,32.26,21,12,HIGH
+Australia,Victoria,0.937,83.69,39.83,22.4,12.8,HIGH
+Australia,Western Australia,0.954,83.64,58.71,22,12.6,VERY HIGH
+Austria,Total,0.914,81.43,46.23,16.3,12.6,HIGH
+Austria,Burgenland,0.874,81.03,31.73,14.6,12.3,HIGH
+Austria,Karnten,0.899,81.43,39.18,15.6,12.5,HIGH
+Austria,Niederosterreich,0.879,81.03,37.67,13.9,12.6,HIGH
+Austria,Oberosterreich,0.905,81.83,47.05,15.3,12.4,HIGH
+Austria,Salzburg,0.934,82.33,55.96,17,12.6,VERY HIGH
+Austria,Steiermark,0.909,81.73,40.96,16.5,12.4,HIGH
+Austria,Tirol,0.927,82.43,50.1,17,12.4,VERY HIGH
+Austria,Vorarlberg,0.902,82.33,51.24,14.5,12.2,VERY HIGH
+Austria,Wien,0.94,80.53,55.83,18.9,13,VERY HIGH
+Bahrain,Total,0.838,77.16,40.4,15.3,9.41,HIGH
+Bangladesh,Total,0.613,72.32,4.057,11.2,6.06,LOW
+Bangladesh," Bagerhat, Khulna, Satkhira",0.62,76.77,3.134,12.1,5.72,LOW
+Bangladesh," Bandarban, Cox s Bazar",0.538,67.17,2.86,10,4.38,LOW
+Bangladesh," Barguna, Bhola, Patuakhali",0.586,72.84,2.877,11,5.49,LOW
+Bangladesh," Barisal, Jhalokati, Pirojpur",0.672,74,4.735,12.8,8.11,LOW
+Bangladesh," Bogra, Gaibandha, Jaypurhat",0.614,72.57,3.429,12.1,5.93,LOW
+Bangladesh," Brahmanbaria, Chandpur, Comilla",0.632,74.09,4.626,11.2,6.35,LOW
+Bangladesh, Chittagong,0.648,70.95,5.915,11.3,7.5,LOW
+Bangladesh," Chuadanga, Jhenaidah, Kushtia, Meherpur",0.61,71.79,4.241,11.6,5.37,LOW
+Bangladesh, Dhaka,0.695,75.03,9.06,10.3,8.81,LOW
+Bangladesh," Dinajpur, Nilphamari, Panchagarh, Thakurgaon",0.614,74.62,3.203,11.5,6.2,LOW
+Bangladesh," Faridpur, Manikganj, Rajbari",0.596,72.53,3.438,11.9,4.85,LOW
+Bangladesh," Feni, Lakshmipur, Noakhali",0.596,71.53,4.051,10.2,5.84,LOW
+Bangladesh," Gazipur, Narayanganj, Narsingdi",0.649,73.13,5.674,10.9,7.33,LOW
+Bangladesh," Gopalganj, Madaripur, Munshiganj, Shariatpur",0.636,74.52,4.046,12.2,6.28,LOW
+Bangladesh," Habiganj, Sunamganj",0.535,68.35,2.849,10.2,3.7,LOW
+Bangladesh," Jamalpur, Sherpur, Tangail",0.574,70.13,3.336,11.6,4.25,LOW
+Bangladesh," Jessore, Magura, Narail",0.622,72.78,3.707,12.1,6.27,LOW
+Bangladesh," Khagrachhari, Rangamati (Chattagram)",0.593,67.75,3.181,12.2,6.1,LOW
+Bangladesh," Kishoreganj, Mymensingh, Netrakona",0.562,71.58,2.807,10.4,4.67,LOW
+Bangladesh," Kurigram, Lalmonirhat, Rangpur",0.591,72.94,3.023,11.6,5.08,LOW
+Bangladesh," Maulvibazar, Sylhet",0.596,70.44,4.218,10.8,5.53,LOW
+Bangladesh," Naogaon, Nawabganj, Rajshahi",0.578,71.37,3.151,10.9,5.02,LOW
+Bangladesh," Natore, Pabna, Sirajganj",0.606,73.31,3.568,11.1,5.86,LOW
+Barbados,Total,0.813,79.08,15.91,15.2,10.6,MEDIUM
+Barbados,Christ Church and St. Philip,0.82,79.08,16.71,15.1,11,MEDIUM
+Barbados,St Michael,0.806,79.08,15.12,14.9,10.3,MEDIUM
+Barbados,"St. James, St. George, and St. Thomas",0.826,79.08,16.74,15.6,11.1,MEDIUM
+Barbados,"St. Lucy, St. Peter, St. Andrew, St. Joseph, and St. John",0.805,79.08,15.32,15.3,9.85,MEDIUM
+Belgium,Total,0.919,81.47,43.82,19.7,11.8,HIGH
+Belgium,Bruxelles - Brussel,0.946,81.24,75.56,22,12,VERY HIGH
+Belgium,Prov. Antwerpen,0.931,82.34,51.96,20.2,11.7,VERY HIGH
+Belgium,Prov. Brabant Wallon,0.925,82.34,49.59,16.2,12.9,VERY HIGH
+Belgium,Prov. Hainaut,0.875,78.74,27.95,18.6,11.1,MEDIUM
+Belgium,Prov. Liege,0.886,79.94,31.32,17.6,11.4,HIGH
+Belgium,Prov. Limburg,0.913,82.84,36,19.6,11.6,HIGH
+Belgium,Prov. Luxembourg,0.886,79.84,27.56,18,11.7,MEDIUM
+Belgium,Prov. Namur,0.891,79.64,30.15,18.8,11.8,HIGH
+Belgium,Prov. Oost-Vlaanderen,0.921,82.14,40.69,21.5,12,HIGH
+Belgium,Prov. Vlaams-Brabant,0.938,82.84,47.36,19.1,12.5,HIGH
+Belgium,Prov. West-Vlaanderen,0.922,82.64,43.05,18.8,11.7,HIGH
+Bolivia,Total,0.703,71.24,6.849,14,9.02,LOW
+Bolivia,Beni,0.708,73.93,5.449,13.6,9.96,LOW
+Bolivia,Chuquisaca,0.674,74.04,5.055,14.1,6.87,LOW
+Bolivia,Cochabamba,0.694,70.1,7.202,14,8.47,LOW
+Bolivia,La Paz,0.704,70.59,6.376,14.4,9.49,LOW
+Bolivia,Oruro,0.711,72.18,6.507,14.5,9.24,LOW
+Bolivia,Pando,0.727,73.16,6.786,13.6,10.8,LOW
+Bolivia,Potosi,0.62,65.48,4.525,13.3,6.64,LOW
+Bolivia,Santa Cruz,0.76,75.44,9.996,14,10.5,LOW
+Bolivia,Tarija,0.724,75.12,8.417,13.8,8.59,LOW
+Brazil,Total,0.761,75.67,14.07,15.4,7.84,MEDIUM
+Brazil,Acre,0.716,74.72,8.604,14.9,6.98,LOW
+Brazil,Alagoas,0.719,73.83,11.43,15.4,6.05,MEDIUM
+Brazil,Amapa,0.748,75.8,10.12,15.3,8.27,LOW
+Brazil,Amazonas,0.737,75.68,9.598,15.2,7.67,LOW
+Brazil,Bahia,0.735,74.68,11.71,15.5,6.81,MEDIUM
+Brazil,Ceara,0.734,75.49,11.81,15,6.73,MEDIUM
+Brazil,Distrito Federal,0.822,78.01,17.35,16.5,10.2,MEDIUM
+Brazil,Espirito Santo,0.764,75.51,15.18,15.2,7.96,MEDIUM
+Brazil,Goias,0.768,76.19,15.13,15.6,7.71,MEDIUM
+Brazil,Maranhao,0.706,73.87,8.745,15.2,6.16,LOW
+Brazil,Mato Grosso,0.758,76.21,13.63,15.3,7.59,MEDIUM
+Brazil,Mato Grosso do Sul,0.764,75.77,14.48,15.3,7.96,MEDIUM
+Brazil,Minas Gerais,0.761,76.12,15.02,15.3,7.48,MEDIUM
+Brazil,Para,0.719,74.82,8.632,15.3,6.92,LOW
+Brazil,Paraiba,0.736,74.81,12.44,15.6,6.52,MEDIUM
+Brazil,Parana,0.77,75.94,15.66,15.5,7.97,MEDIUM
+Brazil,Pernambuco,0.737,74.64,12.38,15.2,6.95,MEDIUM
+Brazil,Piaui,0.716,72.64,10.17,16,6.15,LOW
+Brazil,Rio de Janeiro,0.79,77.24,15.3,15.7,8.98,MEDIUM
+Brazil,Rio Grande do Norte,0.751,74.86,13.74,15.5,7.29,MEDIUM
+Brazil,Rio Grande do Sul,0.776,76.55,15.54,15.5,8.23,MEDIUM
+Brazil,Rondonia,0.734,76.04,10.57,15.1,6.99,LOW
+Brazil,Roraima,0.762,77.86,11.33,15.5,7.91,LOW
+Brazil,Santa Catarina,0.776,76.54,16.02,15.2,8.28,MEDIUM
+Brazil,Sao Paulo,0.786,76.88,16.86,15.4,8.74,MEDIUM
+Brazil,Sergipe,0.747,75,13.12,15.8,6.88,MEDIUM
+Brazil,Tocantins,0.749,76.16,12.03,15.6,7.22,MEDIUM
+Bulgaria,Total,0.816,74.93,19.65,14.8,11.8,MEDIUM
+Bulgaria,Severen tsentralen,0.793,74.44,13.43,15.2,11.5,MEDIUM
+Bulgaria,Severoiztochen,0.799,74.84,15.71,14.5,11.6,MEDIUM
+Bulgaria,Severozapaden,0.758,73.34,11.74,13,11.4,LOW
+Bulgaria,Yugoiztochen,0.785,74.44,17.28,13,11.4,MEDIUM
+Bulgaria,Yugozapaden,0.871,75.74,32.17,16.6,12.7,HIGH
+Bulgaria,Yuzhen tsentralen,0.788,75.34,13.58,14.2,11.4,MEDIUM
+Burundi,Total,0.423,61.25,0.66,11.3,3.12,LOW
+Burundi,"East (Cankuzo, Rutana, Ruyigi )",0.405,62.85,0.611,9.85,2.86,LOW
+Burundi,"Middle (Gitega, Karuzi, Muramvya, Mwaro)",0.426,62.18,0.638,11.9,2.85,LOW
+Burundi,"North (Kayanza, Kirundo, Muyinga, Ngozi)",0.376,58.09,0.571,9.67,2.27,LOW
+Burundi,"South (Bururi, Makamba)",0.455,64.23,0.716,13,3.15,LOW
+Burundi,"West (Bubanza, Buja Rural, Cibitoke, Mairie de Bujumbura)",0.47,62.44,0.826,12.5,4.58,LOW
+Cameroon,Total,0.563,58.92,3.291,12.8,6.29,LOW
+Cameroon,Adamaoua,0.51,58.85,2.92,11.1,3.82,LOW
+Cameroon,Centre (incl Yaounde),0.658,62.07,5.264,14.9,9.58,LOW
+Cameroon,Est,0.551,62.32,2.3,12.5,5.86,LOW
+Cameroon,Extreme Nord,0.412,55.63,1.842,8.38,1.69,LOW
+Cameroon,Littoral (incl Douala),0.671,63.63,6.078,15,9.27,LOW
+Cameroon,Nord,0.442,54.2,1.904,10.1,2.69,LOW
+Cameroon,Nord Ouest,0.6,65.77,2.799,14.6,6.13,LOW
+Cameroon,Ouest,0.605,61.88,3.374,15.3,6.65,LOW
+Cameroon,Sud,0.609,61.51,3.176,14.3,8.37,LOW
+Cameroon,Sud Ouest,0.603,59.05,3.567,14.7,8.05,LOW
+Canada,Total,0.922,82.32,43.6,16.1,13.3,HIGH
+Canada,Alberta,0.94,81.81,61.49,16.3,13.5,VERY HIGH
+Canada,British Columbia,0.93,82.82,41.92,16.5,13.6,HIGH
+Canada,Manitoba,0.897,80.31,39.99,15.5,12.8,HIGH
+Canada,New Brunswick,0.889,81.01,34.47,15.3,12.7,HIGH
+Canada,Newfoundland and Labrador,0.885,79.71,44.81,14.8,12.2,HIGH
+Canada,Nova Scotia,0.895,80.81,33.54,15.8,13,HIGH
+Canada,Ontario,0.929,82.82,43.54,16.4,13.5,HIGH
+Canada,"Prince Edward Island, Yukon Territory, Northwest Territories, Nunavut",0.908,80.51,48.05,15.6,12.9,HIGH
+Canada,Quebec,0.908,82.72,36.29,15.8,13.1,HIGH
+Canada,Saskatchewan,0.912,80.51,55.21,15.5,12.8,VERY HIGH
+Central African Republic CAR,Total,0.381,52.81,0.777,7.57,4.28,LOW
+Central African Republic CAR,Bangui,0.513,58.62,1.524,10.6,7.77,LOW
+Central African Republic CAR,"RS I (Ombella Mpoko, Lobaye, Kemo, Nana Grebizi)",0.378,52.45,0.737,7.51,4.46,LOW
+Central African Republic CAR,"RS II (Mambera Kadei, Nana Mambere, Sangha Mbaere)",0.342,52.03,0.721,5.9,3.28,LOW
+Central African Republic CAR,"RS III (Ouham Pende, Ouham)",0.339,51.65,0.671,6.77,2.71,LOW
+Central African Republic CAR,"RS IV (Ouaka, Haute-Kotto, Baminigui Bangoran, Vakaga)",0.355,53.67,0.663,6.56,3.57,LOW
+Central African Republic CAR,"RS V (Basse Kotto, Mbornou, Houte Mbormou)",0.324,50.9,0.601,6.19,2.78,LOW
+Chili,Total,0.847,80.04,21.97,16.5,10.5,MEDIUM
+Chili,Aisen,0.79,79.82,18.65,13.9,8.77,MEDIUM
+Chili,Antofagasta,0.86,78.25,24.89,17.4,11,MEDIUM
+Chili,Arbucania,0.77,79.03,16.78,13.3,8.39,MEDIUM
+Chili,Atacama,0.836,81.66,21.73,15.5,9.79,MEDIUM
+Chili,Bio Bio,0.808,80.29,20.42,14.5,9.14,MEDIUM
+Chili,Coquimbo,0.811,80.76,19.49,14.7,9.29,MEDIUM
+Chili,Los Lagos (incl Los Rios),0.778,79.9,18.11,13.3,8.42,MEDIUM
+Chili,Magallanes and La Antartica Chilena,0.845,79.21,25.12,16.3,10.3,MEDIUM
+Chili,Maule,0.774,78.87,19.24,13.2,8.32,MEDIUM
+Chili,OHiggins,0.802,80.44,21.32,14,8.87,MEDIUM
+Chili,Region Metropolitana,0.864,80.23,26.01,16.9,10.7,MEDIUM
+Chili,Tarapaca (incl Arica and Parinacota),0.862,80.7,22.65,17.2,10.8,MEDIUM
+Chili,Valparaiso (former Aconcagua),0.848,80.31,23.78,16.3,10.3,MEDIUM
+China,Total,0.757,76.7,16.13,13.9,7.9,MEDIUM
+China,Anhui,0.724,76.54,11.54,13,7.4,LOW
+China,Beijing,0.894,81.74,33.58,18.7,10.7,HIGH
+China,Chongqing,0.759,77.17,16.62,13.8,7.84,MEDIUM
+China,Fujian,0.764,77.23,21.64,13.4,7.6,MEDIUM
+China,Gansu,0.691,73.63,7.665,13.1,7.43,LOW
+China,Guangdong,0.791,77.98,21.14,14.7,8.35,MEDIUM
+China,Guangxi,0.726,76.57,10.96,13.3,7.55,LOW
+China,Guizhou,0.68,72.48,9.915,12,6.83,LOW
+China,Hainan,0.75,77.78,12.64,13.9,7.88,MEDIUM
+China,Hebei,0.737,76.43,12.53,13.5,7.7,LOW
+China,Heilongjiang,0.747,77.46,11.15,14.2,8.06,LOW
+China,Henan,0.732,76.02,12.31,13.4,7.61,LOW
+China,Hongkong,0.944,86.33,58.67,18.8,10.7,VERY HIGH
+China,Hubei,0.762,76.33,16.17,14.2,8.09,MEDIUM
+China,Hunan,0.751,76.15,13.2,14.2,8.08,MEDIUM
+China,Inner Mongolia,0.774,75.89,16.64,14.9,8.48,MEDIUM
+China,Jiangsu,0.802,78.12,27.93,14.5,8.24,MEDIUM
+China,Jiangxi,0.727,75.77,11.8,13.3,7.56,LOW
+China,Jilin,0.767,77.66,14.64,14.4,8.21,MEDIUM
+China,Liaoning,0.777,77.86,14.29,15.1,8.57,MEDIUM
+China,Ningxia,0.745,74.81,13.29,14.2,8.08,MEDIUM
+China,Qinghai,0.686,71.32,11.58,12.2,6.91,LOW
+China,Shaanxi,0.756,76.13,14.94,14.2,8.06,MEDIUM
+China,Shandong,0.765,77.95,19,13.6,7.72,MEDIUM
+China,Shanghai,0.867,81.82,32.45,16.8,9.55,HIGH
+China,Shanxi,0.75,76.38,10.59,14.8,8.4,LOW
+China,Sichuan,0.716,76.2,11.66,12.6,7.19,LOW
+China,Taiwan,0.88,81.76,44.44,16.7,9.48,HIGH
+China,Tianjin,0.85,80.42,31.06,16.3,9.27,HIGH
+China,Tibet,0.585,69.49,10.25,8.04,4.57,LOW
+China,Xinjiang,0.731,73.76,11.78,14,7.97,LOW
+China,Yunnan,0.672,70.89,9.026,12.2,6.94,LOW
+China,Zhejiang,0.789,79.24,24,14,7.93,MEDIUM
+Colombia,Total,0.761,77.11,12.9,14.6,8.33,MEDIUM
+Colombia,Amazonas,0.712,74.12,7.522,13.7,8.49,LOW
+Colombia,Antioquia (incl Medellin),0.766,77.51,14.13,14.4,8.38,MEDIUM
+Colombia,Arauca,0.735,76.4,11.88,13.8,7.48,LOW
+Colombia,Atlantico (incl Barranquilla),0.78,76.94,14,14.8,9.43,MEDIUM
+Colombia,Bogota D.C.,0.806,77.55,16.42,15.5,10.1,MEDIUM
+Colombia,Bolivar (Sur and Norte),0.749,77.6,10.49,14.5,8.17,LOW
+Colombia,Boyaca,0.754,77.68,12.01,15.4,7.18,LOW
+Colombia,Caldas,0.772,78.56,14.51,14.7,8.07,MEDIUM
+Colombia,Caqueta,0.712,77.18,9.446,13.7,6.48,LOW
+Colombia,Casanare,0.743,77.77,11.15,14,7.79,LOW
+Colombia,Cauca,0.714,76.46,9.226,14.1,6.64,LOW
+Colombia,Cesar,0.724,75.76,9.768,14.1,7.43,LOW
+Colombia,Choco,0.691,74.67,6.027,14.6,6.85,LOW
+Colombia,Cordoba,0.711,76.8,8.586,13.9,6.75,LOW
+Colombia,Cundinamarca,0.767,78.37,13.81,14.4,8.25,MEDIUM
+Colombia,Guainja,0.664,77.48,4.701,13.2,6.06,LOW
+Colombia,Guajira,0.693,71.06,7.182,14.4,7.67,LOW
+Colombia,Guaviare,0.749,77.38,10.97,15,7.65,LOW
+Colombia,Huila,0.72,77.44,12.56,12.9,6.65,LOW
+Colombia,Magdalena,0.721,75.99,9.487,14,7.29,LOW
+Colombia,Meta,0.77,79.18,13.08,14.3,8.51,MEDIUM
+Colombia,Narino,0.716,77.03,9.332,14.1,6.65,LOW
+Colombia,Norte de Santander,0.744,76.46,13.02,14.2,7.54,MEDIUM
+Colombia,Putumayo,0.713,74.42,9.69,14.3,6.85,LOW
+Colombia,Quindio,0.778,78.04,15.7,14.8,8.35,MEDIUM
+Colombia,Risaralda,0.755,77.66,14.81,14.1,7.55,MEDIUM
+Colombia,San Andres,0.781,77.39,13.91,13.9,10.2,MEDIUM
+Colombia,Santander,0.772,77.21,14.32,15.2,8.26,MEDIUM
+Colombia,Sucre,0.737,78.21,10.12,14.5,7.15,LOW
+Colombia,Tolima,0.741,77.42,10.98,14.6,7.26,LOW
+Colombia,Valle (incl Cali),0.785,77.95,15.57,14.7,9.04,MEDIUM
+Colombia,Vaupis,0.635,71.82,3.284,14.2,6.5,LOW
+Colombia,Vichada,0.748,77.58,11.95,13.8,8.13,MEDIUM
+Costa Rica,Total,0.794,80.1,14.79,15.4,8.67,MEDIUM
+Costa Rica,Alajuela,0.794,80.1,15.37,15.1,8.79,MEDIUM
+Costa Rica,Cartago,0.804,80.1,15.56,16.6,8.26,MEDIUM
+Costa Rica,Guanacaste,0.772,80.1,13.22,15.1,7.67,MEDIUM
+Costa Rica,Heredia,0.825,80.1,15.68,17,9.63,MEDIUM
+Costa Rica,Limon,0.752,80.1,13.29,14,7.02,MEDIUM
+Costa Rica,Puntarenas,0.757,80.1,13.08,14.3,7.2,MEDIUM
+Costa Rica,San Jose,0.808,80.1,15.42,15.6,9.53,MEDIUM
+Croatia,Total,0.838,78.34,23.06,15,11.4,MEDIUM
+Croatia,City of Zagreb,0.895,78.34,41,16.5,12.6,HIGH
+Croatia,County of Bjelovar-Bilogora,0.796,78.34,15.85,13.8,10.5,MEDIUM
+Croatia,County of Brod-Posavina,0.788,78.34,12.76,14,10.7,MEDIUM
+Croatia,County of Dubrovnik-Neretva,0.846,78.34,23.12,15.4,11.8,MEDIUM
+Croatia,County of Istria,0.854,78.34,28.99,15.3,11.6,MEDIUM
+Croatia,County of Karlovac,0.81,78.34,17.26,14.3,10.9,MEDIUM
+Croatia,County of Koprivnica-Krizevc,0.807,78.34,19.41,13.8,10.5,MEDIUM
+Croatia,County of Krapina-Zagorje,0.796,78.34,14.77,14,10.7,MEDIUM
+Croatia,County of Lika-Senj,0.803,78.34,17.71,13.8,10.6,MEDIUM
+Croatia,County of Medimurje,0.816,78.34,19.69,14.2,10.9,MEDIUM
+Croatia,County of Osijek-Baranja,0.816,78.34,18.22,14.5,11,MEDIUM
+Croatia,County of Pozega-Slavonia,0.786,78.34,13.14,13.8,10.5,MEDIUM
+Croatia,County of Primorje-Gorski Kotar,0.864,78.34,28.59,15.8,12,MEDIUM
+Croatia,County of Sibenik-Knin,0.813,78.34,18.27,14.3,10.9,MEDIUM
+Croatia,County of Sisak-Moslavina,0.804,78.34,16.76,14.1,10.7,MEDIUM
+Croatia,County of Split-Dalmatia,0.83,78.34,17.67,15.3,11.7,MEDIUM
+Croatia,County of Varazdin,0.821,78.34,19.14,14.6,11.1,MEDIUM
+Croatia,County of Virovitica-Podravina,0.779,78.34,12.74,13.5,10.3,MEDIUM
+Croatia,County of Vukovar-Srijem,0.789,78.34,13.3,13.9,10.6,MEDIUM
+Croatia,County of Zadar,0.82,78.34,18.57,14.6,11.1,MEDIUM
+Croatia,County of Zagreb,0.819,78.34,17.87,14.7,11.2,MEDIUM
+Cuba,Total,0.778,78.73,7.811,14.4,11.8,LOW
+Cuba,Centro,0.77,78.7,7.811,14,11.4,LOW
+Cuba,Ciudad Habana,0.804,80.16,7.811,15.5,12.7,LOW
+Cuba,Occidente,0.778,79.71,7.811,14.2,11.6,LOW
+Cuba,Oriente,0.77,77.91,7.811,14.2,11.6,LOW
+Cyprus,Total,0.873,80.83,33.1,14.7,12.1,HIGH
+Denmark,Total,0.93,80.78,48.84,19.1,12.6,VERY HIGH
+Denmark,Hovedstaden,0.95,80.67,64.04,18.8,13.3,VERY HIGH
+Denmark,Midtjylland,0.927,81.37,44.34,19.4,12.5,HIGH
+Denmark,Nordjylland,0.914,80.37,41.24,19.2,12.1,HIGH
+Denmark,Sjaelland,0.903,80.07,34.36,18.6,12.1,HIGH
+Denmark,Syddanmark,0.923,81.07,44.9,19.1,12.2,HIGH
+Dominican Republic,Total,0.745,73.89,15.07,14.1,7.94,MEDIUM
+Dominican Republic,"Region 0 (Distrito Nacional, Santo Domingo, Monte Plata)",0.764,73.51,16.79,14.4,9.04,MEDIUM
+Dominican Republic,"Region I (Peravia, San Cristobal, San Jose de Ocoa, Azua)",0.744,76.72,13.78,14.1,7.27,MEDIUM
+Dominican Republic,"Region II (Espaillat, Puerto Plata, Santiago)",0.755,74.57,17.02,14.2,7.94,MEDIUM
+Dominican Republic,"Region III (Duarte, Maria Trinidad Sanchez, Salcedo, Samana)",0.745,76.29,14.54,14,7.39,MEDIUM
+Dominican Republic,"Region IV (Independencia, Bahoruco, Barahona, Pedernales)",0.706,73.54,10.5,14.1,6.49,LOW
+Dominican Republic,"Region V (El Seibo, La Altagracia, La Romana, San Pedro de Macoris, Hato Mayor)",0.728,73.34,13.32,13.9,7.56,MEDIUM
+Dominican Republic,"Region VI (San Juan, Elias Pina)",0.697,72.12,11.49,14.1,5.89,LOW
+Dominican Republic,"Region VII (Dajabon, Monte Cristi, Santiago Rodriguez, Valverde)",0.694,70.8,12,13.5,6.48,LOW
+Dominican Republic,"Region VIII (La Vega, Monsenor Nouel, Sanchez Ramirez)",0.737,74.48,15.51,13.8,7.32,MEDIUM
+Ecuador,Total,0.758,76.8,10.14,14.9,8.99,LOW
+Ecuador,Coste,0.755,76.8,9.648,15,9,LOW
+Ecuador,Oriente,0.721,76.8,7.205,13.9,8.37,LOW
+Ecuador,Sierra,0.771,76.8,11.88,15.2,9.15,MEDIUM
+Egypt,Total,0.699,71.83,10.74,13.1,7.33,LOW
+Egypt,Alexandria,0.744,72.35,11.76,14.5,9.27,LOW
+Egypt,Assuit,0.65,69.02,9.52,11.9,5.94,LOW
+Egypt,Aswan,0.692,71.18,10.32,12.3,7.75,LOW
+Egypt,Behera,0.689,73.48,10.97,12.6,6.24,LOW
+Egypt,Beni Suef,0.669,70.02,10.42,12.1,6.48,LOW
+Egypt,Cairo,0.743,73.88,11.6,13.9,9.06,LOW
+Egypt,Dakahlia,0.716,73,11.2,13.7,7.53,LOW
+Egypt,Damietta,0.723,74.05,11.73,13.5,7.71,LOW
+Egypt,Fayoum,0.673,72.61,10.06,12.4,5.91,LOW
+Egypt,"Frontier governorates (Red Sea, New Valley, Matroh, North Sainai, South Sainai)",0.704,72.54,10.79,12.4,7.99,LOW
+Egypt,Gharbia,0.711,71.97,10.95,13.4,7.78,LOW
+Egypt,Giza,0.701,72.63,10.97,12.7,7.41,LOW
+Egypt,Ismailia,0.713,70.75,11.56,13.6,8.1,LOW
+Egypt,Kafr El-Sheikh,0.706,72.98,11.52,13.7,6.59,LOW
+Egypt,Kalyubia,0.704,70.64,10.29,13.8,7.69,LOW
+Egypt,Menoufia,0.719,73.87,10.92,13.7,7.53,LOW
+Egypt,Menya,0.664,70.13,9.6,12.9,5.81,LOW
+Egypt,Port Said,0.76,73.09,12.59,14.6,9.88,LOW
+Egypt,Qena,0.68,70.44,10.12,12.9,6.66,LOW
+Egypt,Sharkia,0.699,71.1,10.48,13.5,7.35,LOW
+Egypt,Souhag,0.658,69.46,9.456,12.2,6.23,LOW
+Egypt,Suez,0.747,73.15,12.42,14.1,9.3,LOW
+El Salvador,Total,0.667,73.1,6.973,12,6.94,LOW
+El Salvador,Central I,0.704,73.51,8.414,12.8,8.33,LOW
+El Salvador,Central II,0.635,73.53,5.824,11.5,5.57,LOW
+El Salvador,Occidental,0.637,72.29,6.13,11.5,5.98,LOW
+El Salvador,Oriental,0.625,72.81,5.711,11.4,5.29,LOW
+Ethiopia,Total,0.47,66.24,1.782,8.71,2.8,LOW
+Ethiopia,Addis,0.697,72.25,9.505,11.4,8.9,LOW
+Ethiopia,Affar,0.417,61.36,1.858,7.29,1.7,LOW
+Ethiopia,Amhara,0.45,65.78,1.548,8.78,2.03,LOW
+Ethiopia,Ben-Gumz,0.462,64.28,1.606,9.18,2.69,LOW
+Ethiopia,Dire Dawa,0.553,64.87,4.059,9.9,4.93,LOW
+Ethiopia,Gambela,0.549,65.43,2.152,11.7,5.55,LOW
+Ethiopia,Harari,0.569,67.42,4.108,9.59,5.54,LOW
+Ethiopia,Oromiya,0.454,66.6,1.67,7.95,2.6,LOW
+Ethiopia,SNNP,0.473,65.4,1.561,9.83,2.76,LOW
+Ethiopia,Somali,0.419,64.7,1.585,7.36,1.59,LOW
+Ethiopia,Tigray,0.491,69.29,1.988,9.31,2.62,LOW
+Fiji,Total,0.724,67.34,9.11,14.4,10.9,LOW
+Fiji,Ba,0.728,66.02,12.1,14,10.9,LOW
+Fiji,"Cakaudrove, Bua",0.668,68.71,4.335,13.3,9.93,LOW
+Fiji,"Kadavu, Lau, Lomaiviti, Rotuma",0.669,67.37,4.209,14,10.1,LOW
+Fiji,Macuata,0.706,67.1,7.913,14.3,10.2,LOW
+Fiji,Nadroga or Navosa,0.701,68.01,7.139,13.4,10.6,LOW
+Fiji,Naitasiri,0.749,67.8,11.5,15.1,11.4,LOW
+Fiji,Ra,0.672,66.62,5.037,13.5,10.2,LOW
+Fiji,Rewa,0.765,68.26,12.52,15.8,11.7,LOW
+Fiji,"Serua, Namosi",0.713,67.17,8.708,13.4,11.1,LOW
+Fiji,Tailevu,0.726,68.61,7.517,15,11,LOW
+Finland,Total,0.926,81.74,41.78,19.3,12.4,HIGH
+Finland,Aland,0.911,81.12,50.31,16.9,11.7,VERY HIGH
+Finland,Etela-Suomi,0.915,81.52,36.85,19.3,12.2,HIGH
+Finland,Helsinki-Uusimaa,0.946,82.22,55.32,18.9,12.8,VERY HIGH
+Finland,Lansi-Suomi,0.919,81.92,36.98,19.6,12.4,HIGH
+Finland,Pohjois-ja Ita-Suomi,0.91,81.22,34.3,19.7,12.2,HIGH
+France,Total,0.891,82.54,40.51,15.5,11.4,HIGH
+France,Alsace,0.886,82.64,36.78,15.5,11.3,HIGH
+France,Aquitaine,0.886,83.04,35.82,15.4,11.4,HIGH
+France,Auvergne,0.872,81.94,34.19,15.2,11,HIGH
+France,Basse-Normandie,0.864,82.04,31.88,14.9,10.8,HIGH
+France,Bourgogne,0.868,81.94,32.56,14.9,11.2,HIGH
+France,Bretagne,0.883,81.74,34.46,15.6,11.6,HIGH
+France,Centre,0.869,82.24,33.24,14.7,11.2,HIGH
+France,Champagne-Ardenne,0.862,81.24,32.42,15.1,10.8,HIGH
+France,Corse,0.864,83.64,33.1,13.2,11.5,HIGH
+France,Franche-Comte,0.872,82.24,31.47,15.1,11.3,HIGH
+France,French Guyana,0.789,79.95,19.31,12.4,9.79,MEDIUM
+France,Guadeloupe,0.841,81.34,26.05,14.7,10.2,MEDIUM
+France,Haute-Normandie,0.868,81.24,34.6,15.2,10.9,HIGH
+France,Ile de France,0.937,83.94,69.01,16.1,12.1,VERY HIGH
+France,Languedoc-Roussillon,0.873,82.34,29.43,15.7,11.2,HIGH
+France,Limousin,0.873,82.04,32.56,15.1,11.3,HIGH
+France,Lorraine,0.869,81.64,31.2,15.4,11.2,HIGH
+France,Martinique,0.854,81.74,29.16,15,10.5,HIGH
+France,Mayotte,0.781,76.26,12.51,13,11.9,MEDIUM
+France,Midi-Pyrenees,0.896,83.34,37.05,15.7,11.8,HIGH
+France,Nord,0.864,80.25,32.15,15.4,11.1,HIGH
+France,Pays de la Loire,0.884,82.84,35.82,15.2,11.5,HIGH
+France,Picardie,0.848,80.75,30.25,14.5,10.6,HIGH
+France,Poitou-Charentes,0.871,82.24,31.6,15.1,11.2,HIGH
+France,Provence-Alpes-Cote dAzur,0.89,82.84,37.33,15.6,11.5,HIGH
+France,Reunion,0.836,80.65,26.99,14.5,10.1,MEDIUM
+France,Rhone-Alpes,0.901,83.64,39.92,15.7,11.7,HIGH
+Gambia,Total,0.466,61.74,1.49,9.48,3.67,LOW
+Gambia,Banjul,0.557,62.52,2.899,11.4,6.02,LOW
+Gambia,Basse,0.352,58.18,1.001,6.48,1,LOW
+Gambia,Brikama,0.499,61.82,1.616,10.9,4.75,LOW
+Gambia,Janjabureh,0.4,64.84,0.933,7.62,1.92,LOW
+Gambia,Kanifing,0.542,63.06,2.439,11.1,5.69,LOW
+Gambia,Kerewan,0.413,62.9,1.01,8.58,1.99,LOW
+Gambia,Kuntaur,0.332,60.72,0.771,5.64,0.96,LOW
+Gambia,Mansakonko,0.433,61.55,0.954,10.4,2.52,LOW
+Germany,Total,0.939,81.18,46.95,17.1,14.1,HIGH
+Germany,Baden-Wurttemberg,0.953,82.12,54.06,17.2,14.3,VERY HIGH
+Germany,Bayern,0.947,81.83,54.61,16.5,14.4,VERY HIGH
+Germany,Berlin,0.95,81.01,44.93,17.9,14.8,HIGH
+Germany,Brandenburg,0.914,80.81,33.75,16.3,14.2,HIGH
+Germany,Bremen,0.951,80.21,59.27,18.5,14,VERY HIGH
+Germany,Hamburg,0.975,81.31,76.94,18.4,14.5,VERY HIGH
+Germany,Hessen,0.949,81.7,53.99,17,14.3,VERY HIGH
+Germany,Mecklenburg-Vorpommern,0.91,80.21,31.5,16.6,14.2,HIGH
+Germany,Niedersachsen,0.922,80.63,40.87,16.7,13.8,HIGH
+Germany,Nordrhein-Westfalen,0.936,80.76,46.22,17.5,13.8,HIGH
+Germany,Rheinland-Pfalz,0.928,81.23,42.23,16.8,13.9,HIGH
+Germany,Saarland,0.931,80.31,43.33,17.6,13.8,HIGH
+Germany,Sachsen,0.93,81.25,35.61,17.3,14.5,HIGH
+Germany,Sachsen-Anhalt,0.908,79.91,32.43,16.7,14,HIGH
+Germany,Schleswig-Holstein,0.92,80.71,38.13,16.8,13.9,HIGH
+Germany,Thuringen,0.921,80.51,34.55,16.9,14.4,HIGH
+Ghana,Total,0.596,63.78,4.099,11.5,7.18,LOW
+Ghana,Ashanti,0.608,62.58,4.681,11.5,8.11,LOW
+Ghana,Brong Ahafo,0.585,65.51,3.213,12.3,6.1,LOW
+Ghana,Central,0.552,63.96,3.845,7.37,7.38,LOW
+Ghana,Eastern,0.592,64.01,3.47,11.5,7.56,LOW
+Ghana,Greater Accra,0.66,66.82,6.443,11.3,9.7,LOW
+Ghana,Northern,0.503,59.19,2.811,12,2.55,LOW
+Ghana,Upper East,0.523,63.52,2.47,12.4,2.98,LOW
+Ghana,Upper West,0.527,61.22,2.659,13.5,2.72,LOW
+Ghana,Volta,0.596,64.91,3.084,13.3,6.65,LOW
+Ghana,Western,0.623,65.64,4.119,12.8,7.73,LOW
+Greece,Total,0.872,82.07,24.91,17.3,10.5,MEDIUM
+Greece,"Anatoliki Makedonia, Thraki",0.835,81.6,16.94,16.6,9.94,MEDIUM
+Greece,Attiki,0.895,81.6,34.31,17.5,11.2,HIGH
+Greece,Dytiki Ellada,0.853,81.8,17.97,18.4,9.92,MEDIUM
+Greece,Dytiki Makedonia,0.867,82.41,21.71,18.8,10.1,MEDIUM
+Greece,Ionia Nisia,0.865,82.01,22.87,18.1,9.8,MEDIUM
+Greece,Ipeiros,0.866,84.02,17.45,19.5,10.3,MEDIUM
+Greece,Kentriki Makedonia,0.861,81.91,19.38,17.7,10.5,MEDIUM
+Greece,Kriti,0.87,82.81,21.06,18.2,10.3,MEDIUM
+Greece,Notio Aigaio,0.832,82.51,27.02,13.7,9.8,MEDIUM
+Greece,Peloponnisos,0.837,82.91,20.29,15.1,10.1,MEDIUM
+Greece,Sterea Ellada,0.836,82.41,21.96,15,9.95,MEDIUM
+Greece,Thessalia,0.85,82.51,19,16.5,10.4,MEDIUM
+Greece,Voreio Aigaio,0.86,82.81,18.48,18.1,10.1,MEDIUM
+Haiti,Total,0.503,63.66,1.665,9.5,5.44,LOW
+Haiti,Artibonite,0.469,63.54,1.301,9.14,4.33,LOW
+Haiti,Centre,0.454,62.88,1.176,9.03,3.93,LOW
+Haiti,Grande-Anse,0.471,65.37,1.131,9.69,4.21,LOW
+Haiti,North,0.516,67.16,1.698,9.87,5.04,LOW
+Haiti,North-East,0.492,64.35,1.527,9.83,4.5,LOW
+Haiti,North-West,0.493,66.58,1.28,9.8,4.83,LOW
+Haiti,South,0.487,66.09,1.326,9.57,4.53,LOW
+Haiti,South-East,0.481,64.47,1.365,9.6,4.32,LOW
+Haiti,West (incl Metropolitain area),0.535,61.78,2.36,9.49,7.02,LOW
+Honduras,Total,0.623,75.09,4.258,10.2,6.6,LOW
+Honduras,Atlantida,0.649,75.6,5.043,10.5,7.38,LOW
+Honduras,Choluteca,0.574,75.85,2.829,9.22,5.4,LOW
+Honduras,Colon,0.608,75.65,4.502,9.51,5.77,LOW
+Honduras,Comayagua,0.606,73.42,4.444,9.53,6.24,LOW
+Honduras,Copan,0.565,74.14,3.487,8.81,4.77,LOW
+Honduras,Cortes,0.663,75.52,5.997,10.7,7.66,LOW
+Honduras,El Paraiso,0.574,74.81,2.868,9.53,5.36,LOW
+Honduras,Francisco Morazan,0.692,75.98,5.497,12.4,8.78,LOW
+Honduras,Gracias a Dios,0.54,70.47,1.585,10.2,6.09,LOW
+Honduras,Intibuca,0.547,73.69,2.487,8.82,4.89,LOW
+Honduras,Islas de la Bahia,0.648,69.69,5.966,11,8.16,LOW
+Honduras,La Paz,0.572,73.78,2.929,9.53,5.34,LOW
+Honduras,Lempira,0.517,74.16,2.253,8.16,3.8,LOW
+Honduras,Ocotepeque,0.577,75.36,3.837,8.9,4.88,LOW
+Honduras,Olancho,0.591,76.39,3.37,9.99,5.09,LOW
+Honduras,Santa Barbara,0.589,76,3.766,9.41,5.13,LOW
+Honduras,Valle,0.591,75.58,3.263,9.8,5.57,LOW
+Honduras,Yoro,0.609,74.69,4.226,9.78,6.1,LOW
+Hungary,Total,0.844,76.7,27.14,15.1,11.9,MEDIUM
+Hungary,Del-Alfold,0.819,76.32,19.16,14.8,11.7,MEDIUM
+Hungary,Del-Dunantul,0.809,76.32,17.61,14.4,11.5,MEDIUM
+Hungary,Eszak-Alfold,0.805,76.02,17.04,14.4,11.4,MEDIUM
+Hungary,Eszak-Magyarorszag,0.797,75.01,17.75,13.8,11.4,MEDIUM
+Hungary,Kozep-Dunantul,0.824,76.42,25.69,13.7,11.7,MEDIUM
+Hungary,Kozep-Magyarorszag,0.901,78.03,41.81,17.2,12.7,HIGH
+Hungary,Nyugat-Dunantul,0.845,77.03,29.84,14.7,11.8,MEDIUM
+Iceland,Total,0.938,82.86,47.57,19.2,12.5,HIGH
+India,Total,0.647,69.42,6.829,12.4,6.45,LOW
+India,Andaman and Nicobar Islands,0.739,75.05,12.57,13.5,8.31,MEDIUM
+India,Andhra Pradesh,0.65,69.84,8.169,12.9,5.42,LOW
+India,Arunachal Pradesh,0.66,71.85,7.715,12.8,5.8,LOW
+India,Assam,0.614,68.62,4.363,12,6.34,LOW
+India,Bihar,0.576,68.54,3.298,12,4.53,LOW
+India,Chandigarth,0.775,72.64,18.51,13.6,10.5,MEDIUM
+India,Chhattisgarh,0.613,67.12,5.18,12.4,5.68,LOW
+India,Dadra and Nagar Haveli,0.663,71.75,6.996,12.1,7.02,LOW
+India,Daman and Diu,0.708,72.17,11.75,12.1,8.33,LOW
+India,Goa,0.761,74.38,16.44,13.8,8.95,MEDIUM
+India,Gujarat,0.672,70.53,10.37,11.8,6.92,LOW
+India,Haryana,0.708,71.16,13.17,13.1,7.42,LOW
+India,Himachal Pradesh,0.725,71.22,13.24,13.7,8.21,LOW
+India,Jammu and Kashmir,0.688,71.57,10.14,13,6.78,LOW
+India,Jharkhand,0.599,68.72,4.006,12.2,5.28,LOW
+India,Karnataka,0.682,72.44,8.563,12.9,6.81,LOW
+India,Kerala,0.779,75.91,14.87,14.2,10,MEDIUM
+India,Lakshadweep,0.75,72.91,14.89,14,8.9,MEDIUM
+India,Madhya Pradesh,0.606,67.39,5.138,11.8,5.51,LOW
+India,Maharashtra,0.696,72.54,9.069,12.9,7.64,LOW
+India,Manipur,0.696,72.78,6.057,13.4,8.95,LOW
+India,Meghalaya,0.656,70.98,6.324,12.9,6.5,LOW
+India,Mizoram,0.705,69.33,12.27,13.1,8.19,LOW
+India,Nagaland,0.679,71.83,7.555,12.9,7.27,LOW
+India,New Delhi,0.746,72.3,15.4,13.2,9.28,MEDIUM
+India,Orissa,0.606,68.84,4.326,12,5.63,LOW
+India,Puducherry,0.738,73.46,12.35,13.7,8.8,LOW
+India,Punjab,0.723,71.73,15.47,13.2,7.78,MEDIUM
+India,Rajasthan,0.629,69.32,7.199,12.1,5.19,LOW
+India,Sikkim,0.716,72.94,12.3,13.8,7.06,LOW
+India,Tamil Nadu,0.708,73.27,9.436,13.6,7.6,LOW
+India,Telangana,0.669,70.67,8.919,13.1,6.11,LOW
+India,Tripura,0.658,72.21,5.176,13,6.97,LOW
+India,Uttar Pradesh,0.596,65.84,4.721,11.6,5.81,LOW
+India,Uttaranchal,0.684,69.81,9.115,13,7.54,LOW
+India,West Bengal,0.641,71.49,5.524,12.4,6.12,LOW
+Indonesia,Total,0.707,71.51,11.26,12.9,7.98,LOW
+Indonesia,Bali,0.737,73,15.25,13.2,8.38,MEDIUM
+Indonesia,Bangka Belitung,0.716,73.16,14.2,12.6,7.51,MEDIUM
+Indonesia,Banten,0.71,72.16,12.72,12.1,8.25,LOW
+Indonesia,Bengkulu,0.717,72.57,10.04,13.5,8.41,LOW
+Indonesia,Central Java,0.694,72.2,10.84,12.6,7.15,LOW
+Indonesia,Central Kalimantan,0.689,69.68,9.892,12.5,8.09,LOW
+Indonesia,Central Sulawesi,0.664,66.04,8.329,12.6,8.11,LOW
+Indonesia,DI Aceh,0.719,70.14,9.825,14.5,8.78,LOW
+Indonesia,DI Yogyakarta,0.763,73.34,12.94,15.5,9.14,LOW
+Indonesia,DKI Jakarta,0.785,73.19,18.89,13.7,11,MEDIUM
+Indonesia,East Java,0.702,72.72,11.29,13,7.15,LOW
+Indonesia,East Kalimantan,0.749,73.31,14.88,13.6,8.99,MEDIUM
+Indonesia,East Nusa Tenggara,0.652,69.44,5.234,13.1,7.35,LOW
+Indonesia,Gorontalo,0.642,66.93,7.704,11.5,7.19,LOW
+Indonesia,Irian Jaya (Papua and Papua Barat),0.607,62.8,4.835,12,7.38,LOW
+Indonesia,Jambi,0.7,72.43,10.12,12.8,7.63,LOW
+Indonesia,Lampung,0.694,72.21,9.563,12.8,7.43,LOW
+Indonesia,Maluku,0.694,67.87,8.242,13.8,8.96,LOW
+Indonesia,North Sulawesi,0.729,72.39,10.81,13.3,9.31,LOW
+Indonesia,North Sumatra,0.718,69.87,10.73,13.7,9.09,LOW
+Indonesia,Riau (incl. Riau islands),0.745,73.22,12.43,14.1,9.07,LOW
+Indonesia,South Kalimantan,0.698,69.68,11.37,13.1,7.77,LOW
+Indonesia,South Sulawesi (incl Sulawesi Barat),0.699,71.69,10.48,12.5,7.98,LOW
+Indonesia,South Sumatra,0.706,72.36,10.78,12.7,7.93,LOW
+Indonesia,Southeast Sulawesi,0.699,69.74,8.607,13.8,8.41,LOW
+Indonesia,West Java,0.714,72.17,12.96,12.4,8.18,LOW
+Indonesia,West Kalimantan,0.683,72.42,9.86,12.3,6.86,LOW
+Indonesia,West Nusa Tenggara,0.661,67.36,7.569,13.5,6.9,LOW
+Indonesia,West Sumatra,0.733,72.79,11.54,13.6,8.99,LOW
+Iran,Total,0.798,76.48,18.17,14.7,10,MEDIUM
+Iran,Ardebil,0.763,73.41,16.23,14.8,8.7,MEDIUM
+Iran,Bushehr,0.811,76.41,20.73,15.2,10.2,MEDIUM
+Iran,Chaharmahal and Bakhtiyari,0.794,77.27,18.68,15,9.08,MEDIUM
+Iran,EastAzarbayejan,0.785,76.32,18.33,14.6,9.08,MEDIUM
+Iran,Esfahan,0.829,76.82,23.69,15.8,10.6,MEDIUM
+Iran,Fars,0.807,76.4,19.16,15.2,10.2,MEDIUM
+Iran,Gilan,0.802,77.6,15.89,15.4,10,MEDIUM
+Iran,Golestan,0.775,77.2,16.1,13.9,9.08,MEDIUM
+Iran,Hamedan,0.773,76.54,18.19,14.1,8.49,MEDIUM
+Iran,Hormozgan,0.768,76.58,15.34,13.8,9,MEDIUM
+Iran,Ilam,0.813,77.61,18.42,15.7,10.1,MEDIUM
+Iran,Kerman,0.778,76.6,15.02,14.1,9.63,MEDIUM
+Iran,Kermanshah,0.795,77,20.67,14.8,9.04,MEDIUM
+Iran,Khorasan-e-Razavi,0.78,75.97,18.05,13.9,9.51,MEDIUM
+Iran,Khuzestan,0.801,76.74,22.33,14.4,9.58,MEDIUM
+Iran,Kohgiluyeh and Boyerahmad,0.791,76.17,16.18,15.4,9.56,MEDIUM
+Iran,Kordestan,0.747,73.77,19.96,13.4,7.67,MEDIUM
+Iran,Lorestan,0.781,76.33,17.39,14.6,8.93,MEDIUM
+Iran,Markazi,0.791,76.34,17.86,15,9.4,MEDIUM
+Iran,Mazandaran,0.822,77.72,18.31,16,10.5,MEDIUM
+Iran,North Khorasan,0.746,75.63,14.15,13.8,8.01,MEDIUM
+Iran,Qazvin,0.794,76.76,19.05,14.6,9.57,MEDIUM
+Iran,Qom,0.814,77.34,19.37,15.4,10.2,MEDIUM
+Iran,Semnan,0.822,76.62,18.84,15.7,11,MEDIUM
+Iran,Sistanand Baluchestan,0.687,75.93,10.79,11.4,6.49,LOW
+Iran,South Khorasan,0.757,75.39,14.85,14.3,8.26,MEDIUM
+Iran,Tehran and Alborz,0.834,76.73,17.81,15.9,12.2,MEDIUM
+Iran,WestAzarbayejan,0.76,75.68,18.29,13.7,8.08,MEDIUM
+Iran,Yazd,0.822,77.6,21.22,15.2,10.6,MEDIUM
+Iran,Zanjan,0.771,76.3,15.15,14.8,8.67,MEDIUM
+Iraq,Total,0.689,70.45,15.37,11.2,7.32,LOW
+Iraq,Anbar,0.683,70.85,13.76,11.1,7.18,LOW
+Iraq,Babylon,0.684,71.69,12.76,10.7,7.61,LOW
+Iraq,Baghdad,0.706,71.14,16.82,10.8,8.35,LOW
+Iraq,Basra,0.668,68.61,13.26,10.4,7.53,LOW
+Iraq,Diala,0.698,69.79,15.97,11.6,7.7,LOW
+Iraq,Dohouk,0.702,71.52,18.31,12.4,6.36,LOW
+Iraq,Erbil,0.704,71.02,18.21,12.5,6.56,LOW
+Iraq,Kerbela,0.67,68.45,13.45,11,7.15,LOW
+Iraq,Maysan,0.638,70.07,12.34,10.1,5.51,LOW
+Iraq,Muthanna,0.647,71.04,15.27,9.75,5.48,LOW
+Iraq,Najaf,0.658,70.53,11.04,10.3,6.92,LOW
+Iraq,Nenava,0.698,70.51,15.93,10.9,8.09,LOW
+Iraq,Qadisiya,0.681,70.11,15.05,11.2,6.95,LOW
+Iraq,Salaheldeen,0.695,70.01,16.85,11.1,7.63,LOW
+Iraq,Suleimaniya,0.706,71.05,16.93,13.1,6.45,LOW
+Iraq,Ta-amem-Karkuk,0.708,69.2,17.19,11.9,8.18,LOW
+Iraq,Thi-Qar,0.686,71.18,15.52,11.5,6.61,LOW
+Iraq,Wasit,0.66,68.97,11.68,10.6,7.1,LOW
+Ireland,Total,0.943,82.1,55.66,18.8,12.5,VERY HIGH
+Ireland,Border,0.894,82.3,26.62,17.7,11.8,MEDIUM
+Ireland,Dublin,0.963,82.04,91.09,19.6,13.1,VERY HIGH
+Ireland,Mid-East,0.927,82.55,39.74,18.7,12.4,HIGH
+Ireland,Mid-West,0.923,81.28,42.1,18.6,12.4,HIGH
+Ireland,Midland,0.899,82.19,26.66,18,12,MEDIUM
+Ireland,South-East,0.914,81.94,37.15,17.9,12,HIGH
+Ireland,South-West,0.952,81.84,67.28,19,12.6,VERY HIGH
+Ireland,West,0.929,82.6,39.54,19,12.7,HIGH
+Italy,Total,0.883,83.35,36.14,16.3,10.3,HIGH
+Italy,Abruzzo,0.884,83.49,31.41,16.9,10.3,HIGH
+Italy,Basilicata,0.853,83.09,26.71,15.1,10.1,MEDIUM
+Italy,Calabria,0.842,82.89,21.64,15.5,9.89,MEDIUM
+Italy,Campania,0.845,81.69,23.59,16,9.85,MEDIUM
+Italy,Emilia-Romagna,0.91,83.69,45.46,17.3,10.5,HIGH
+Italy,Friuli-Venezia Giulia,0.895,83.49,39.67,16.6,10.5,HIGH
+Italy,Lazio,0.904,83.19,41.25,17.1,10.8,HIGH
+Italy,Liguria,0.89,83.59,40.33,16.1,10.4,HIGH
+Italy,Lombardia,0.902,83.99,48.1,16.3,10.4,HIGH
+Italy,Marche,0.893,83.99,34.68,17,10.5,HIGH
+Italy,Molise,0.863,83.39,25.93,15.9,10.3,MEDIUM
+Italy,Piemonte,0.888,83.29,38.48,16.5,10.2,HIGH
+Italy,Provincia Autonoma di Bolzano,0.888,84.09,56.17,14.3,10.4,VERY HIGH
+Italy,Provincia Autonoma di Trento,0.911,84.29,45.86,17,10.6,HIGH
+Italy,Puglia,0.845,83.49,22.94,15.4,9.69,MEDIUM
+Italy,Sardegna,0.858,83.29,26.19,16,9.83,MEDIUM
+Italy,Sicilia,0.838,82.39,22.16,15.4,9.69,MEDIUM
+Italy,Toscana,0.9,83.89,39.14,17,10.5,HIGH
+Italy,Umbria,0.884,84.09,31.15,16.4,10.6,HIGH
+Italy,Valle dAosta,0.877,82.99,45.86,14.8,10.2,HIGH
+Italy,Veneto,0.892,83.89,41.51,16.1,10.3,HIGH
+Jamaica,Total,0.726,74.37,7.932,13.1,9.8,LOW
+Jamaica,"Kingston, St Andrew",0.745,73.3,9.493,13.9,10.4,LOW
+Jamaica,"Manchester, Clarendon",0.71,74.98,6.486,13.2,9.15,LOW
+Jamaica,"St Ann, St Catherine",0.748,76.61,9.186,13,10.3,LOW
+Jamaica,"St James, Hanover, Westmoreland",0.701,72.82,7.066,12.5,9.3,LOW
+Jamaica,"St Thomas, Portland, St Mary",0.708,74.4,6.646,12.6,9.59,LOW
+Jamaica,"Trelawny, St Elizabeth",0.702,74.41,7.045,12.3,9.04,LOW
+Japan,Total,0.915,84.47,40.8,15.2,12.8,HIGH
+Japan,"Chugoku (Tottori, Shimane, Okayama, Hiroshima, Yamaguchi)",0.91,84.78,38.27,15.1,12.7,HIGH
+Japan,Hokkaido,0.89,84.27,34.29,14.5,12.2,HIGH
+Japan,"Hokuriku (Niigata, Toyama, Ishikawa, Fukui)",0.9,84.88,39.73,14.5,12.2,HIGH
+Japan,"Kansai region (Shiga, Kyoto, Osaka, Hyogo, Nara, Wakayama)",0.918,84.37,38.98,15.5,13,HIGH
+Japan,"Kyushu (Fukuoka, Saga, Nagasaki, Kumamoto, Oita, Miyazaki, Kagoshima, Okinawa)",0.895,84.57,33.54,14.7,12.4,HIGH
+Japan,"Northern-Kanto, Koshin (Ibaraki, Tochigi, Gunma)",0.903,84.47,39.77,14.7,12.4,HIGH
+Japan,"Shikoku (Tokushima, Kagawa, Ehime, Kochi)",0.896,84.47,35.58,14.7,12.3,HIGH
+Japan,"Southern-Kanto (Saitama, Chiba, Tokyo, Kanagawa, Yamanashi, Nagano)",0.941,84.67,46.79,16.2,13.6,HIGH
+Japan,"Tohoku (Aomori, Iwate, Miyagi, Akita, Yamagata, Fukushima)",0.886,83.96,36.14,14.2,11.9,HIGH
+Japan,"Toukai (Gifu, Shizuoka, Aichi, Mie)",0.915,84.57,44.91,15,12.6,HIGH
+Jordan,Total,0.723,74.41,8.268,11.9,10.5,LOW
+Jordan,Aljoun,0.717,73.69,7.754,12.1,10.3,LOW
+Jordan,Amman,0.74,74.58,8.824,12.3,11.1,LOW
+Jordan,Aqaba,0.724,75.41,8.473,11.4,10.4,LOW
+Jordan,Balqa,0.719,75.3,7.922,11.7,10.2,LOW
+Jordan,Irbid,0.718,74.18,7.806,12,10.3,LOW
+Jordan,Jarash,0.718,75.02,7.836,11.8,10.1,LOW
+Jordan,Karak,0.733,74.91,8.501,12.6,10.3,LOW
+Jordan,Maan,0.694,74.24,8.184,10.7,9.14,LOW
+Jordan,Madaba,0.708,73.79,8.16,11.4,9.88,LOW
+Jordan,Mafraq,0.67,73.49,6.871,10.4,8.45,LOW
+Jordan,Tafiela,0.717,74.3,8.385,11.7,10,LOW
+Jordan,Zarqa,0.709,74.18,8.034,11.3,9.92,LOW
+Kenya,Total,0.578,66.34,3.052,11.1,6.56,LOW
+Kenya,Central,0.616,68.29,4.034,11.5,7.35,LOW
+Kenya,Coast,0.567,66.18,3.413,10.5,5.73,LOW
+Kenya,Eastern,0.57,67.92,2.615,11.4,5.84,LOW
+Kenya,Nairobi,0.644,64.29,7.043,10.9,9.22,LOW
+Kenya,North Eastern,0.438,68.01,1.682,8,1.3,LOW
+Kenya,Nyanza,0.554,63.05,2.306,11.5,6.72,LOW
+Kenya,Rift Valley,0.572,67.9,2.621,11,6.26,LOW
+Kenya,Western,0.549,65.33,1.958,11.7,6.15,LOW
+Kuwait,Total,0.808,75.4,71.16,13.8,7.28,VERY HIGH
+Kuwait,Ahmadi,0.817,75.4,70.16,14.2,7.53,VERY HIGH
+Kuwait,"Al Asimah, Hawalli, Al-Farwaniyah, Mubarak al-Sabah",0.807,75.4,71.86,13.7,7.23,VERY HIGH
+Kuwait,Al-Jahra,0.798,75.4,68.93,13.3,7.03,VERY HIGH
+Lao,Total,0.604,67.61,6.317,11.1,5.2,LOW
+Lao,Attapeu,0.583,65.68,5.281,11,4.95,LOW
+Lao,Bokeo,0.579,65.7,6.405,10.4,4.53,LOW
+Lao,Borikhamxay,0.639,69.03,9.051,11.4,5.72,LOW
+Lao,Champasack,0.595,68.14,6.933,9.87,5.12,LOW
+Lao,Huaphanh,0.575,68.63,4.022,11.4,4.18,LOW
+Lao,Khammuane,0.589,64.9,6.194,11.2,4.88,LOW
+Lao,Luangnamtha,0.576,68.22,5.643,11.2,3.41,LOW
+Lao,Luangprabang,0.591,69.94,4.73,11.4,4.26,LOW
+Lao,Oudomxay,0.569,64.24,4.589,11.4,4.52,LOW
+Lao,Phongsaly,0.543,64.27,3.668,11,3.79,LOW
+Lao,Saravane,0.524,64.36,3.861,9.04,3.92,LOW
+Lao,Savannakhet,0.564,66.04,5.524,9.89,4.33,LOW
+Lao,Sayabury,0.655,74.51,7.649,11.9,5.41,LOW
+Lao,Sekong,0.578,69.72,4.488,11,3.97,LOW
+Lao,Vientiane Municipality,0.719,72.69,11.68,13.1,8.17,LOW
+Lao,Vientiane Province,0.618,66.9,7.455,11.7,5.33,LOW
+Lao,Xiengkhuang,0.63,68.58,6.618,12,5.84,LOW
+Latvia,Total,0.854,75.17,26.3,16,12.8,MEDIUM
+Latvia,Kurzeme region,0.833,74.27,19.24,16,12.8,MEDIUM
+Latvia,Latgale region,0.81,72.66,14.49,16,12.8,MEDIUM
+Latvia,Pieriga region,0.849,76.48,20.96,16,12.8,MEDIUM
+Latvia,Riga region,0.885,76.18,44.18,16,12.8,HIGH
+Latvia,Vidzeme region,0.831,74.97,17.12,16,12.8,MEDIUM
+Latvia,Zemgale region,0.822,74.47,15.43,16,12.8,MEDIUM
+Lesotho,Total,0.518,53.71,3.244,10.7,6.35,LOW
+Lesotho,Berea,0.552,55.52,3.956,11.2,7.31,LOW
+Lesotho,Butha-Buthe,0.524,57.62,2.872,10.4,5.97,LOW
+Lesotho,Leribe,0.514,52.17,3.321,10.9,6.52,LOW
+Lesotho,Mafeteng,0.512,52.25,3.318,10.8,6.31,LOW
+Lesotho,Maseru,0.553,53.34,4.526,11.5,7.6,LOW
+Lesotho,Mohale s Hoek,0.48,51.69,2.519,10.4,5.25,LOW
+Lesotho,Mokhotlong,0.459,53.77,1.915,9.4,4.67,LOW
+Lesotho,Qasha s Nek,0.492,52.29,2.548,10.9,5.56,LOW
+Lesotho,Quthing,0.494,52.7,2.83,10.7,5.32,LOW
+Lesotho,Thaba-Tseka,0.473,57.27,1.853,9.41,4.71,LOW
+Libya,Total,0.707,72.72,11.69,12.8,7.56,LOW
+Libya,Cyrenaica,0.699,72.72,10.81,12.6,7.42,LOW
+Libya,Fezzan,0.707,72.72,10.39,13.1,7.74,LOW
+Libya,Tripolitania,0.712,72.72,12.41,12.9,7.61,LOW
+Malaysia,Total,0.804,76,27.23,13.5,10.2,MEDIUM
+Malaysia,Johor,0.818,76,33.94,13.7,10.2,HIGH
+Malaysia,Kedah,0.802,76,27.9,13.6,9.76,MEDIUM
+Malaysia,Kelantan,0.772,76,17.79,13.9,8.93,MEDIUM
+Malaysia,Kuala Lumpur Federal Territory,0.86,76,36.58,15,12.3,HIGH
+Malaysia,Labuan Federal Territory,0.778,76,23.92,10.9,10.7,MEDIUM
+Malaysia,Melaka,0.828,76,35.52,14.1,10.5,HIGH
+Malaysia,Negeri Sembilan,0.822,76,35.82,13.5,10.5,HIGH
+Malaysia,Pahang,0.797,76,27.85,13.1,9.84,MEDIUM
+Malaysia,Perak,0.809,76,32.46,13.7,9.71,HIGH
+Malaysia,Perlis,0.799,76,27.6,13.5,9.64,MEDIUM
+Malaysia,Pulau Pinang,0.838,76,36.77,14.2,11.1,HIGH
+Malaysia,Sabah,0.704,76,11.61,10.7,7.97,LOW
+Malaysia,Sarawak,0.739,76,15.73,12.5,7.97,MEDIUM
+Malaysia,Selangor,0.855,76,37.7,14.6,12.2,HIGH
+Malaysia,Terengganu,0.793,76,24.17,13.5,9.71,MEDIUM
+Mauritius,Total,0.796,74.86,22.72,15,9.43,MEDIUM
+Mauritius,"North (Port Louis, Pamplemousses, Riviere du Rempart, Flacq, Moka)",0.791,74.86,22.18,14.7,9.27,MEDIUM
+Mauritius,Rodrigues,0.715,74.86,15.41,11.7,7.34,MEDIUM
+Mauritius,"South (Grand Port, Savanne, Plaines Wilhems, Black River)",0.806,74.86,23.81,15.4,9.68,MEDIUM
+Mexico,Total,0.767,74.99,17.63,14.3,8.6,MEDIUM
+Mexico,Aguascalientes,0.79,76.7,21.18,14.2,9.16,MEDIUM
+Mexico,Baja California,0.803,76.75,20.08,15.3,9.48,MEDIUM
+Mexico,Baja California Sur,0.799,75.42,19.25,15.4,9.73,MEDIUM
+Mexico,Campeche,0.765,76.39,14.5,14.2,8.69,MEDIUM
+Mexico,Chiapas,0.692,74.17,9.151,13.2,6.5,LOW
+Mexico,Chihuahua,0.779,73.51,20.35,15,9.01,MEDIUM
+Mexico,Coahuila,0.791,75.58,20.72,14.4,9.55,MEDIUM
+Mexico,Colima,0.782,76.27,18.63,14.5,8.87,MEDIUM
+Mexico,Distrito Federal,0.827,75.4,20.55,16.6,11,MEDIUM
+Mexico,Durango,0.764,74.41,17.56,14.4,8.51,MEDIUM
+Mexico,Guanajuato,0.751,75.14,17.43,13.8,7.74,MEDIUM
+Mexico,Guerrero,0.709,73.24,10.04,13.9,7.18,LOW
+Mexico,Hidalgo,0.754,74.87,13.98,14.9,8.03,MEDIUM
+Mexico,Jalisco,0.782,75.36,21.22,14.3,8.86,MEDIUM
+Mexico,Mexico,0.777,74.75,16.53,15,9.15,MEDIUM
+Mexico,Michoacan de Ocampo,0.739,75.1,15.8,13.7,7.3,MEDIUM
+Mexico,Morelos,0.77,75.89,15.62,14.5,8.79,MEDIUM
+Mexico,Nayarit,0.772,73.88,17.1,15.4,8.55,MEDIUM
+Mexico,Nuevo Leon,0.799,75.6,21.67,14.5,9.99,MEDIUM
+Mexico,Oaxaca,0.703,74.61,8.987,13.8,6.75,LOW
+Mexico,Puebla,0.737,74.07,12.75,14.3,7.75,MEDIUM
+Mexico,Queretaro,0.782,75.55,18.2,14.4,9.31,MEDIUM
+Mexico,Quintana Roo,0.777,75.06,17.11,14.4,9.38,MEDIUM
+Mexico,San Luis Potosi,0.754,75.47,14.3,14.3,8.16,MEDIUM
+Mexico,Sinaloa,0.798,76.54,18.79,15.7,9.14,MEDIUM
+Mexico,Sonora,0.798,75.09,19.56,15.5,9.61,MEDIUM
+Mexico,Tabasco,0.768,76.42,14.04,14.7,8.67,MEDIUM
+Mexico,Tamaulipas,0.786,76.03,18.36,14.8,9.12,MEDIUM
+Mexico,Tlaxcala,0.765,75.73,14.75,14.5,8.65,MEDIUM
+Mexico,Veracruz,0.738,74.99,12.5,14.4,7.55,MEDIUM
+Mexico,Yucatan,0.768,75.59,16.45,14.8,8.33,MEDIUM
+Mexico,Zacatecas,0.758,74.94,17.91,14.2,7.91,MEDIUM
+Morocco,Total,0.676,76.45,7.48,13.1,5.51,LOW
+Morocco,Centre,0.711,77.6,7.961,14.4,6.36,LOW
+Morocco,Centre north,0.679,75.88,7.111,12.4,6.56,LOW
+Morocco,Centre south,0.66,75.4,7.13,13.7,4.29,LOW
+Morocco,Eastern,0.639,76.69,6.669,12.8,3.48,LOW
+Morocco,North west,0.696,76.62,7.799,13.3,6.56,LOW
+Morocco,South,0.661,74.74,7.492,13.6,4.41,LOW
+Morocco,Tensift,0.64,77.05,7.332,11,4.66,LOW
+Mozambique,Total,0.446,60.16,1.154,9.75,3.54,LOW
+Mozambique,Cabo delgado,0.383,59.28,0.905,7.25,2.32,LOW
+Mozambique,Gaza,0.439,59.97,1.1,9.93,3.16,LOW
+Mozambique,Inhambane,0.463,66.24,0.969,11.1,2.99,LOW
+Mozambique,Manica,0.482,59.48,1.37,11.2,4.67,LOW
+Mozambique,Maputo Cidade,0.611,63.43,3.29,13.7,8.01,LOW
+Mozambique,Maputo Provincia,0.53,61.48,1.851,12.2,5.73,LOW
+Mozambique,Nampula,0.433,65.1,1.018,8.49,2.9,LOW
+Mozambique,Niassa,0.416,60.92,0.968,8.24,3.09,LOW
+Mozambique,Sofala,0.472,60.46,1.412,10.4,4.02,LOW
+Mozambique,Tete,0.399,58.14,0.942,8.22,2.74,LOW
+Mozambique,Zambezia,0.419,56.98,1.054,9.79,2.7,LOW
+Myanmar,Total,0.584,66.87,5.764,10.3,4.95,LOW
+Myanmar,Ayeyarwaddy,0.561,65.62,3.849,10.6,4.83,LOW
+Myanmar,Bago,0.578,65.5,5.06,10.4,5.33,LOW
+Myanmar,Chin,0.593,63.16,5.776,12,5.38,LOW
+Myanmar,Kachin,0.624,68.26,8.07,11.3,5.41,LOW
+Myanmar,Kayah,0.61,69.69,6.685,11.1,4.75,LOW
+Myanmar,Kayin,0.559,65.43,5.935,9.68,4.05,LOW
+Myanmar,Magway,0.586,68.98,5.197,10.5,4.68,LOW
+Myanmar,"Mandalay, NayPyitaw",0.601,67.34,6.402,10.9,5.16,LOW
+Myanmar,Mon,0.608,70.58,7.001,10.3,4.88,LOW
+Myanmar,Rakhine,0.545,68.62,3.814,9.41,3.98,LOW
+Myanmar,Sagaing,0.575,67.29,4.965,10.5,4.57,LOW
+Myanmar,Shan,0.511,63.79,6.238,7.89,2.95,LOW
+Myanmar,Taninthayi,0.584,65.54,5.818,10.7,4.96,LOW
+Myanmar,Yangon,0.665,70.29,9.79,11.4,6.99,LOW
+Nepal,Total,0.58,70.48,2.748,12.2,4.86,LOW
+Nepal,Central,0.583,70.56,2.896,11.9,5.15,LOW
+Nepal,Eastern,0.577,71.3,2.639,11.8,4.89,LOW
+Nepal,Far-western,0.556,67.45,2.267,13.2,3.97,LOW
+Nepal,Mid-western,0.554,69.95,2.194,12.4,3.83,LOW
+Nepal,Western,0.601,71.45,3.249,12.6,5.2,LOW
+Netherlands,Total,0.933,82.14,50.01,18,12.2,VERY HIGH
+Netherlands,Drenthe,0.903,81.87,34.76,17.5,11.7,HIGH
+Netherlands,Flevoland,0.912,82.17,38.62,17.4,12,HIGH
+Netherlands,Friesland,0.905,81.77,34.62,17.8,11.7,HIGH
+Netherlands,Gelderland,0.922,82.27,42.07,17.9,12,HIGH
+Netherlands,Groningen,0.929,81.26,50.25,18.6,12.2,VERY HIGH
+Netherlands,Limburg,0.915,81.97,42.62,17.5,11.8,HIGH
+Netherlands,Noord-Brabant,0.932,82.07,52.47,17.8,12,VERY HIGH
+Netherlands,Noord-Holland,0.949,82.07,65.03,17.7,12.7,VERY HIGH
+Netherlands,Overijssel,0.921,82.07,41.24,17.9,12.1,HIGH
+Netherlands,Utrecht,0.953,82.57,58.74,18.2,13,VERY HIGH
+Netherlands,Zeeland,0.906,82.57,38.89,16.9,11.7,HIGH
+Netherlands,Zuid-Holland,0.933,82.27,50.53,17.8,12.2,VERY HIGH
+New Zealand,Total,0.921,82.15,35.11,18.8,12.7,HIGH
+New Zealand,Auckland,0.941,83.17,38.05,20.4,13.7,HIGH
+New Zealand,Bay of Plenty,0.91,81.33,29.16,19.2,12.9,HIGH
+New Zealand,Canterbury,0.931,82.66,36.11,19.7,13.2,HIGH
+New Zealand,Gisborne,0.878,77.7,23.95,18.7,12.6,MEDIUM
+New Zealand,Hawkes Bay,0.9,80.3,27.46,19,12.8,MEDIUM
+New Zealand,Manawatu-Wanganui,0.9,80.76,26.34,19,12.8,MEDIUM
+New Zealand,Marlborough,0.924,81.94,36.97,19.1,12.8,HIGH
+New Zealand,Northland,0.892,80.56,23.68,18.8,12.7,MEDIUM
+New Zealand,Otago,0.926,82.55,32.02,20,13.4,HIGH
+New Zealand,Southland,0.91,80.71,34.02,18.5,12.4,HIGH
+New Zealand,Taranaki,0.929,81.17,46.2,18.7,12.6,HIGH
+New Zealand,Tasman - Nelson,0.917,82.55,28.49,19.6,13.2,HIGH
+New Zealand,Waikato,0.913,81.33,30.54,19.3,13,HIGH
+New Zealand,Wellington,0.949,82.81,43.99,20.7,13.9,HIGH
+New Zealand,West Coast,0.907,81.07,31.21,18.4,12.4,HIGH
+Niger,Total,0.376,62.02,0.912,6.47,2.03,LOW
+Niger,Agadez,0.474,68.13,1.31,8.83,3.77,LOW
+Niger,Diffa,0.355,68.13,1.057,4.39,1.44,LOW
+Niger,Dosso,0.356,59.27,0.82,6.63,1.52,LOW
+Niger,Maradi,0.358,60.99,0.876,6.27,1.4,LOW
+Niger,Tahoua,0.331,63.17,0.819,4.75,1.19,LOW
+Niger,Tillabery (incl Niamey),0.471,62.8,1.305,9.42,4.46,LOW
+Niger,Zinder,0.341,61.4,0.773,5.6,1.38,LOW
+Norway,Total,0.954,82.27,68.06,18.1,12.6,VERY HIGH
+Norway,Agder og Rogaland,0.949,82.28,70.79,17.5,12.4,VERY HIGH
+Norway,Hedmark og Oppland,0.926,81.48,49.86,17.6,12.2,VERY HIGH
+Norway,Nord-Norge,0.935,81.68,57.83,17.6,12.3,VERY HIGH
+Norway,Oslo og Akershus,0.968,82.77,91.48,18.5,13.2,VERY HIGH
+Norway,Sor-Ostlandet,0.918,81.88,51.49,16.6,12.1,VERY HIGH
+Norway,Trondelag,0.951,82.57,61.47,20.3,12.6,VERY HIGH
+Norway,Vestlandet,0.956,82.47,68.59,18.4,12.7,VERY HIGH
+Pakistan,Total,0.561,67.11,5.19,8.46,5.16,LOW
+Pakistan,AJK,0.611,66.33,5.834,11,6.51,LOW
+Pakistan,Balochistan,0.477,67.01,4.628,5.6,3.1,LOW
+Pakistan,FATA,0.466,73,2.509,6.23,2.45,LOW
+Pakistan,Gilgit Baltistan,0.593,65.01,6.849,10.8,5.17,LOW
+Pakistan,Islamabad (ICT),0.678,70.77,8.527,11.4,8.34,LOW
+Pakistan,Khyber Pakhtunkhwa (NWFrontier),0.529,68.79,4.328,7.87,3.82,LOW
+Pakistan,Punjab,0.567,66.29,5.503,8.73,5.41,LOW
+Pakistan,Sindh,0.533,67.22,4.483,7.06,5.05,LOW
+Paraguay,Total,0.724,74.13,11.72,12.7,8.45,LOW
+Paraguay,"Central (Asuncion, Central)",0.762,75.14,15.59,12.3,10.2,MEDIUM
+Paraguay,"North-East (Caaguazu, Alto Parana, Canideyu)",0.704,73.34,10.13,12.9,7.48,LOW
+Paraguay,"North-West (Boqueron, Alto Paraguay, Presidente Hayes, Conception, Amambay, San pedro, Cordillera)",0.698,73.21,8.911,12.9,7.67,LOW
+Paraguay,"South-East (Guaira, Misiones, Paraguari, Neembucu)",0.712,74.56,11.38,12.6,7.57,LOW
+Paraguay,"South-West (Caazapa, Itapua)",0.707,74.25,10.32,13.3,7.08,LOW
+Peru,Total,0.759,76.52,12.32,13.9,9.22,MEDIUM
+Peru,"Central (Huancavelica, Huanuco, Junin, Pasco)",0.715,75.72,8.437,13.7,7.66,LOW
+Peru,"East (Madre de Dios, Cusco, Puno, Apurimac)",0.699,74.65,7.399,13.7,7.3,LOW
+Peru,"North (Tumbes, Piura, Lambayeque, Cajamarca, La Libertad)",0.728,76.89,10.27,13.2,7.9,LOW
+Peru,"North East (Amazonas, Loreto, San Martin, Ucayali)",0.7,74.74,8.395,12.1,8.16,LOW
+Peru,"South (Tacna, Moquegua, Arequipa, Ica, Ayacucho)",0.779,77.42,12.93,14.6,9.64,MEDIUM
+Peru,"West (Ancash, Lima, Callao)",0.816,77.56,19.66,14.6,10.9,MEDIUM
+Philippines,Total,0.712,71.1,9.54,12.7,9.39,LOW
+Philippines,ARMM,0.595,67.3,4.041,11.1,6.27,LOW
+Philippines,Cordillera Admin Region,0.735,73.6,9.959,13.3,9.76,LOW
+Philippines,I-Ilocos,0.719,70.91,10.59,12.6,9.72,LOW
+Philippines,II-Cagayan Valley,0.699,71.66,8.501,12.5,8.75,LOW
+Philippines,III-Central Luzon,0.726,72.42,12.03,12.2,9.51,LOW
+Philippines,IVA-CALABARZON,0.737,72.07,12.49,12.6,10.1,LOW
+Philippines,IVB-MIMAROPA,0.683,70.43,7.399,12.5,8.58,LOW
+Philippines,IX-Zamboanga Peninsula,0.68,71.39,7.001,12.6,8.13,LOW
+Philippines,National Capital Region,0.773,73.69,14.67,13.2,11.3,MEDIUM
+Philippines,V-Bicol,0.687,69.72,7.213,12.9,8.88,LOW
+Philippines,VI-Western Visayas,0.682,68.49,7.675,12.8,8.82,LOW
+Philippines,VII-Central Visayas,0.699,70.88,8.822,12.8,8.69,LOW
+Philippines,VIII-Eastern Visayas,0.694,70.56,7.895,13.3,8.46,LOW
+Philippines,X-Northern Mindanao,0.694,70.56,8.018,12.6,9.03,LOW
+Philippines,XI-Davao,0.696,71.63,7.04,13.3,8.68,LOW
+Philippines,XII-SOCCSKSARGEN,0.664,68.33,6.756,12.3,8.32,LOW
+Philippines,XIII-Caraga,0.698,71.1,8.643,12.7,8.72,LOW
+Poland,Total,0.872,78.54,27.63,16.4,12.3,MEDIUM
+Poland,Dolnoslaskie,0.883,78.24,30.73,17.2,12.3,HIGH
+Poland,Kujawsko-Pomorskie,0.85,78.34,22.44,15.7,12,MEDIUM
+Poland,Lodzkie,0.86,77.03,25.72,16.5,12.1,MEDIUM
+Poland,Lubelskie,0.849,78.74,18.75,16.3,12.1,MEDIUM
+Poland,Lubuskie,0.836,77.94,23.01,14.4,12,MEDIUM
+Poland,Malopolskie,0.886,79.85,25,17.6,12.5,MEDIUM
+Poland,Mazowieckie,0.919,78.94,44.61,18,12.9,HIGH
+Poland,Opolskie,0.847,78.74,21.87,15.2,12.1,MEDIUM
+Poland,Podkarpackie,0.846,79.75,19.18,15.2,12.3,MEDIUM
+Poland,Podlaskie,0.847,78.94,19.32,15.7,12.3,MEDIUM
+Poland,Pomorskie,0.875,78.84,26.72,16.6,12.4,MEDIUM
+Poland,Slaskie,0.866,77.94,28.72,16,12.3,MEDIUM
+Poland,Swietokrzyskie,0.842,78.44,19.6,15.4,12.2,MEDIUM
+Poland,Warminsko-Mazurskie,0.828,77.63,19.46,14.8,11.8,MEDIUM
+Poland,Wielkopolskie,0.879,78.54,30.16,16.9,12.1,HIGH
+Poland,Zachodniopomorskie,0.846,78.24,23.01,15.2,12,MEDIUM
+Portugal,Total,0.85,81.86,27.94,16.3,9.19,MEDIUM
+Portugal,Alentejo,0.828,80.74,26.28,15.4,8.87,MEDIUM
+Portugal,Algarve,0.834,80.84,29.45,15,9.16,HIGH
+Portugal,Area Metropolitana de Lisboa,0.889,82.25,37.09,17.7,9.87,HIGH
+Portugal,Centro,0.842,82.04,24.39,16.3,9.08,MEDIUM
+Portugal,Norte,0.835,82.25,23.5,15.9,8.87,MEDIUM
+Portugal,Regiao Autonoma da Madeira,0.807,79.02,26.54,14.1,8.84,MEDIUM
+Portugal,Regiao Autonoma dos Acores,0.797,78.12,24.89,14.3,8.45,MEDIUM
+Qatar,Total,0.849,80.1,110.5,12.2,9.67,VERY HIGH
+Romania,Total,0.815,75.92,23.91,14.3,11,MEDIUM
+Romania,Bucuresti,0.917,77.33,58.82,18.8,12.2,VERY HIGH
+Romania,Centru,0.812,76.43,22.25,13.9,11.1,MEDIUM
+Romania,Nord-Est,0.772,75.22,14.43,13.4,10.5,MEDIUM
+Romania,Nord-Vest,0.812,75.92,20.94,14.7,10.9,MEDIUM
+Romania,Sud,0.781,75.72,18.76,12.4,10.8,MEDIUM
+Romania,Sud-Est,0.792,75.02,20.36,13.6,10.6,MEDIUM
+Romania,Sud-Vest Oltenia,0.796,76.33,17.32,13.7,11,MEDIUM
+Romania,Vest,0.821,75.82,24.88,14.6,11,MEDIUM
+Russian Federation,Total,0.824,72.39,25.04,15.5,12,MEDIUM
+Russian Federation,The Central Federal District,0.846,73.59,33.31,15.7,12.1,HIGH
+Russian Federation,The Far East  Federal District,0.81,69.72,31.84,14.9,11.5,MEDIUM
+Russian Federation,The North West Federal District,0.834,72.68,27.5,15.8,12.2,MEDIUM
+Russian Federation,The North-Caucasian Federal District,0.794,75.67,8.934,16.1,12.5,LOW
+Russian Federation,The Privolzhsky (Volga) Federal District,0.805,71.9,18.05,15.6,12.1,MEDIUM
+Russian Federation,The Siberian  Federal District,0.796,70.31,20.31,15.1,11.7,MEDIUM
+Russian Federation,The South Federal District,0.801,72.81,15.96,15.4,11.9,MEDIUM
+Russian Federation,The Urals  Federal District,0.841,71.33,40.34,15.5,12,HIGH
+Rwanda,Total,0.536,68.7,1.959,11.2,4.42,LOW
+Rwanda,City of Kigali,0.632,72.32,4.094,11.3,7.4,LOW
+Rwanda,East,0.512,66.2,1.882,10.7,3.94,LOW
+Rwanda,North,0.53,69.66,1.779,11.2,4.11,LOW
+Rwanda,South,0.522,68.89,1.657,11.2,4.06,LOW
+Rwanda,West,0.531,69.37,1.789,11.5,3.93,LOW
+Saudi Arabia,Total,0.857,75,49.34,17,9.67,VERY HIGH
+Saudi Arabia,"Center (Riadh, Qassim)",0.88,75,54.91,18.1,10.3,VERY HIGH
+Saudi Arabia,Eastern province,0.844,75,53.29,16,9.14,VERY HIGH
+Saudi Arabia,"North (Northern Borders, Al Jawf, Hail)",0.871,75,66.66,17,9.68,VERY HIGH
+Saudi Arabia,"South (Bahah, Jizan, Asir, Najran)",0.837,75,51.14,15.7,8.96,VERY HIGH
+Saudi Arabia,"West (Makka, Madinah, Tabuk)",0.853,75,42.32,17.2,9.78,HIGH
+Senegal,Total,0.514,67.67,3.256,8.97,3.07,LOW
+Senegal,Dakar,0.638,71.32,5.929,12.3,5.75,LOW
+Senegal,Diourbel,0.407,65.9,2.902,5.41,1.09,LOW
+Senegal,Fatick,0.513,68.86,2.244,11,2.27,LOW
+Senegal,Kaolack,0.437,67.38,2.223,7.01,1.47,LOW
+Senegal,Kolda,0.431,64.4,1.466,8.36,1.71,LOW
+Senegal,Louga,0.425,67.08,2.639,6.48,1.05,LOW
+Senegal,Saint Louis,0.473,67.76,2.718,7.98,1.98,LOW
+Senegal,Tambacounda,0.408,65.17,1.802,6.36,1.4,LOW
+Senegal,Thies,0.53,68.39,3.685,9.72,2.95,LOW
+Senegal,Ziguinchor,0.576,68.25,2.495,13.3,4.83,LOW
+Singapore,Total,0.935,83.46,83.79,16.3,11.5,VERY HIGH
+South Africa,Total,0.705,63.86,11.76,13.7,10.2,LOW
+South Africa,Eastern Cape,0.669,62,8.925,13.6,9.17,LOW
+South Africa,Free State,0.706,62.04,15.05,13.7,10.1,LOW
+South Africa,Gauteng,0.726,64.59,13.18,13.6,11.4,LOW
+South Africa,KwaZulu Natal,0.701,64.84,10.96,13.8,9.6,LOW
+South Africa,Mpumalanga,0.673,61.1,9.508,13.7,9.58,LOW
+South Africa,North West,0.67,61.9,9.673,12.9,9.56,LOW
+South Africa,Northern Cape,0.694,63.81,13.18,13.1,9.25,LOW
+South Africa,Northern Province,0.704,66.37,9.092,14.9,9.15,LOW
+South Africa,Western Cape,0.74,64.97,19.36,12.8,11.5,LOW
+South Korea,Total,0.906,82.85,36.76,16.4,12.2,HIGH
+South Korea,Capital Region,0.933,83.96,36.27,17.6,13.1,HIGH
+South Korea,Chungcheong Region,0.894,83.15,44.09,15.2,11.3,HIGH
+South Korea,Gangwon Region,0.884,81.93,30.85,15.9,11.9,HIGH
+South Korea,Gyeongbuk Region,0.84,82.54,34.03,13.3,9.9,HIGH
+South Korea,Gyeongnam Region,0.918,82.54,38.57,17,12.7,HIGH
+South Korea,Jeju,0.89,84.57,30.19,15.7,11.7,HIGH
+South Korea,Jeolla Region,0.888,82.74,33.93,15.7,11.7,HIGH
+Spain,Total,0.893,83.43,35.04,17.9,9.82,HIGH
+Spain,Andalucia,0.862,82.17,25.77,17.6,9.29,MEDIUM
+Spain,Aragon,0.898,83.77,38.13,17.7,9.95,HIGH
+Spain,Canarias,0.861,82.67,28.71,16.6,9.42,MEDIUM
+Spain,Cantabria,0.89,83.47,31.39,17.7,10.2,HIGH
+Spain,Castilla y Leon,0.894,84.27,33.01,18.8,9.79,HIGH
+Spain,Castilla-la Mancha,0.859,83.57,27.24,16.5,9.2,MEDIUM
+Spain,Cataluna,0.906,83.87,42.18,17.9,9.99,HIGH
+Spain,Ciudad Autonoma de Ceuta,0.847,81.37,27.77,16.4,9.01,MEDIUM
+Spain,Ciudad Autonoma de Melilla,0.841,81.17,25.37,16,9.34,MEDIUM
+Spain,Comunidad de Madrid,0.928,85.16,48.14,19.3,10.6,HIGH
+Spain,Comunidad Foral de Navarra,0.913,84.07,43.94,17.7,10.4,HIGH
+Spain,Comunidad Valenciana,0.882,82.97,30.86,17.8,9.64,HIGH
+Spain,Extremadura,0.853,82.57,23.9,17.2,9,MEDIUM
+Spain,Galicia,0.886,82.97,31.26,18.2,9.78,HIGH
+Spain,Illes Balears,0.862,83.37,36.51,15.1,9.59,HIGH
+Spain,La Rioja,0.902,84.27,36.91,18.3,9.94,HIGH
+Spain,Pais Vasco,0.921,83.87,46.65,19,10.7,HIGH
+Spain,Principado de Asturias,0.887,82.57,30.32,18.1,10.2,HIGH
+Spain,Region de Murcia,0.873,82.87,28.84,17.7,9.36,MEDIUM
+Sri Lanka,Total,0.78,76.81,11.61,14,11.1,MEDIUM
+Sudan,Total,0.508,65.1,3.962,7.74,3.72,LOW
+Sudan,Al Gedarif,0.455,64.76,2.7,6.79,2.57,LOW
+Sudan,Al Gezira,0.549,66.94,6.526,8.14,4.12,LOW
+Sudan,Blue Nile,0.424,60.92,3.72,5.53,2.06,LOW
+Sudan,Kassala,0.457,67.02,3.219,6.3,2.3,LOW
+Sudan,Khartoum,0.626,67.09,10,9.88,6.36,LOW
+Sudan,Nahr El Nil,0.6,70.04,7.417,9.09,5.35,LOW
+Sudan,North Darfur,0.468,62.97,2.058,8.65,3,LOW
+Sudan,North Kordofan,0.465,66.89,2.531,7.09,2.68,LOW
+Sudan,Northern,0.623,69.88,10.86,9.4,5.56,LOW
+Sudan,Red Sea,0.522,66.97,3.497,8.86,3.64,LOW
+Sudan,Sinnar,0.496,66.79,3.953,7.18,3.16,LOW
+Sudan,South Darfur,0.442,63.19,2.225,7,2.52,LOW
+Sudan,South Kordofan,0.437,64.46,2.32,6.34,2.43,LOW
+Sudan,West Darfur,0.446,63.79,2.169,7.61,2.17,LOW
+Sudan,White Nile,0.495,64.6,3.643,7.79,3.27,LOW
+Sweden,Total,0.936,82.65,47.96,18.8,12.4,HIGH
+Sweden,Mellersta Norrland,0.919,81.94,40.06,18.4,12,HIGH
+Sweden,Norra Mellansverige,0.916,82.04,38.16,18.5,11.9,HIGH
+Sweden,Ostra Mellansverige,0.927,82.54,41.29,19.3,12.3,HIGH
+Sweden,Ovre Norrland,0.927,82.04,43.2,19.5,12.3,HIGH
+Sweden,Smaland med oarna,0.924,82.95,40.61,18.6,12,HIGH
+Sweden,Stockholm,0.962,83.15,67.81,18.5,12.9,VERY HIGH
+Sweden,Sydsverige,0.929,82.64,40.06,19,12.6,HIGH
+Sweden,Vastsverige,0.935,82.64,47.03,18.6,12.4,HIGH
+Switzerland,Total,0.946,83.63,59.38,16.2,13.4,VERY HIGH
+Switzerland,Central Switzerland,0.939,83.92,58.61,15.3,13.5,VERY HIGH
+Switzerland,Eastern Switzerland,0.923,83.32,52.26,15.1,13.1,VERY HIGH
+Switzerland,Espace Mittelland,0.934,83.02,54.88,15.9,13.2,VERY HIGH
+Switzerland,Lake Geneva region,0.948,84.12,56.06,16.7,13.3,VERY HIGH
+Switzerland,Northwestern Switzerland,0.94,83.52,61.41,15.4,13.4,VERY HIGH
+Switzerland,Ticino,0.948,84.92,61.8,15.9,13.1,VERY HIGH
+Switzerland,Zurich,0.978,83.82,72.49,17.7,13.9,VERY HIGH
+Tanzania,Total,0.529,65.02,2.805,8.01,6.01,LOW
+Tanzania," Arusha, Manyara",0.545,69.49,2.726,8.09,6.04,LOW
+Tanzania, Dar Es Salam,0.631,63.07,7.088,10,9.33,LOW
+Tanzania, Dodoma,0.479,62.62,1.896,7.6,5,LOW
+Tanzania," Iringa, Njombe",0.554,66.8,2.872,9.19,6.33,LOW
+Tanzania, Kagera,0.501,63.81,2.129,8.28,5.26,LOW
+Tanzania, Kigoma,0.499,66.6,2.14,7.51,4.99,LOW
+Tanzania, Kilimanjaro,0.613,68.82,4.384,10.7,7.18,LOW
+Tanzania, Lindi,0.49,64.89,2.158,7.12,5.07,LOW
+Tanzania, Mara,0.522,63.11,2.462,8.65,6.05,LOW
+Tanzania, Mbeya,0.523,62.98,2.502,8.54,6.27,LOW
+Tanzania, Morogoro,0.525,66.53,2.501,7.92,5.9,LOW
+Tanzania, Mtwara,0.488,64.88,2.199,6.91,5.08,LOW
+Tanzania," Mwanza, Geita",0.505,64.21,2.441,7.62,5.37,LOW
+Tanzania, Pemba North,0.543,67.84,3.759,8.47,4.83,LOW
+Tanzania, Pemba South,0.577,68.52,4.193,9.5,5.77,LOW
+Tanzania, Pwani,0.506,63.52,2.582,7.83,5.28,LOW
+Tanzania," Rukwa, Katavi",0.467,62.84,1.958,6.19,5.15,LOW
+Tanzania, Ruvuma,0.533,66.47,2.536,8.18,6.22,LOW
+Tanzania," Shinyanga, Simiyu",0.49,63.64,2.435,7.11,4.95,LOW
+Tanzania, Singida,0.525,68.73,2.204,8.05,5.7,LOW
+Tanzania, Tabora,0.464,65.79,2.306,5.59,4.3,LOW
+Tanzania, Tanga,0.547,66.81,3.337,8.43,5.81,LOW
+Tanzania, Zanzibar North,0.56,67.14,3.535,9.69,5.41,LOW
+Tanzania, Zanzibar South,0.612,68.84,4.477,10.1,7.59,LOW
+Tanzania, Zanzibar West,0.69,67.89,10.76,11.3,9.51,LOW
+Thailand,Total,0.765,76.93,16.13,14.7,7.73,MEDIUM
+Thailand,Bangkok,0.813,77.06,17.53,15.8,10.3,MEDIUM
+Thailand,Central,0.768,77.21,16.3,14.5,8.01,MEDIUM
+Thailand,North,0.747,77.3,15.93,14.5,6.36,MEDIUM
+Thailand,Northeast,0.749,76.97,15.33,14.5,6.8,MEDIUM
+Thailand,South,0.755,75.95,16.18,14.1,7.75,MEDIUM
+Turkey,Total,0.806,77.44,24.91,16.4,7.67,MEDIUM
+Turkey,"Aegean (Afyon, Aydin, Denizli, Izmir, Kutahya, Manisa, Mugla, Usak)",0.814,78.33,24.16,16.8,7.75,MEDIUM
+Turkey,"Central Anatolia (Kayseri, Kirsehir, Nevsehir, Nigde, Sivas, Yozgat, Aksaray, Kirikkale)",0.807,77.9,23.99,17,7.17,MEDIUM
+Turkey,"Central East Anatolia (Bingol, Bitlis, Elazig, Hakkari, Malatya, Mus, Tunceli, Van)",0.756,76.08,22.68,14.6,6.16,MEDIUM
+Turkey,"East Black Sea (Artvin, Giresun, Gumushane, Ordu, Rize, Trabzon)",0.786,76.78,20.68,16.7,6.78,MEDIUM
+Turkey,"East Marmara (Bilecik, Bolu, Bursa, Duzce, Eskisehir, Kocaeli, Sakarya, Yalova)",0.827,79.94,25.59,16.9,7.88,MEDIUM
+Turkey,Istanbul,0.828,77.35,29.01,16.7,8.65,MEDIUM
+Turkey,"Mediterranean (Adana, Antalya, Burdur, Hatay, Isparta, Icel, K Maras, Osmaniye)",0.793,76.55,23.91,16.2,7.32,MEDIUM
+Turkey,"North East Anatolia (Agri, Erzincan, Erzurum, Kars, Bayburt, Ardahan, Igdir)",0.742,74.84,18.8,15.1,5.79,MEDIUM
+Turkey,"South East Anatolia (Adiyaman, Diyarbakir, Gaziantep, Mardin, Siirt, Sanliurfa, Batman, Sirnak, Kili",0.753,76.17,21.73,14.7,5.97,MEDIUM
+Turkey,"West Anatolia (Ankara, Konya, Karaman)",0.855,79.39,27.26,18.5,9.19,MEDIUM
+Turkey,"West Black Sea (Amasya, Cankiri, Corum, Kastamonu, Samsun, Sinop, Tokat, Zonguldak, Bartin, Karabuk)",0.807,77.75,24.07,17.5,6.92,MEDIUM
+Turkey,"West Marmara (Balikesir, Canakkale, Edirne, Kirklareli, Tekirdag)",0.832,79.39,23.51,18.4,7.88,MEDIUM
+United Arab Emirates,Total,0.866,77.81,66.91,13.6,11,VERY HIGH
+United Kingdom,Total,0.92,81.24,39.51,17.4,13,HIGH
+United Kingdom,East Midlands,0.906,81.27,31.63,17.6,12.6,HIGH
+United Kingdom,East of England,0.91,82.15,35.97,16.6,12.8,HIGH
+United Kingdom,London,0.967,82.75,70.64,17.4,13.8,VERY HIGH
+United Kingdom,North East,0.895,79.82,28.59,18.3,12.4,MEDIUM
+United Kingdom,North West,0.907,79.92,34.5,17.8,12.7,HIGH
+United Kingdom,Northern Ireland,0.887,81.04,29.84,16.2,12.4,HIGH
+United Kingdom,Scotland,0.914,79.23,37.13,17.8,13.2,HIGH
+United Kingdom,South East,0.931,82.43,43.12,17.2,13.3,HIGH
+United Kingdom,South West,0.918,81.92,34.51,17.4,13.1,HIGH
+United Kingdom,Wales,0.883,80.36,28.51,16.1,12.7,HIGH
+United Kingdom,West Midlands,0.904,80.79,32.6,17.6,12.5,HIGH
+United Kingdom,Yorkshire and The Humber,0.902,80.62,30.83,17.7,12.5,HIGH
+United States,Total,0.92,78.85,56.14,16.3,13.4,VERY HIGH
+United States,Alabama,0.877,75.35,41.3,15.8,13,HIGH
+United States,Alaska,0.937,78.25,71.09,16.8,13.8,VERY HIGH
+United States,Arizona,0.908,79.55,42.78,16.2,13.3,HIGH
+United States,Arkansas,0.877,75.95,40.3,15.7,12.9,HIGH
+United States,California,0.93,80.75,65.11,15.9,13.1,VERY HIGH
+United States,Colorado,0.942,79.95,58.61,17,14,VERY HIGH
+United States,Connecticut,0.953,80.75,71.69,16.9,13.9,VERY HIGH
+United States,Delaware,0.93,78.35,70.75,16.4,13.5,VERY HIGH
+United States,District of Columbia,0.942,76.45,179.1,17.4,14.4,VERY HIGH
+United States,Florida,0.909,79.35,43.84,16.2,13.3,HIGH
+United States,Georgia,0.902,77.15,49.61,16.1,13.3,VERY HIGH
+United States,Hawaii,0.94,81.25,56.92,16.7,13.7,VERY HIGH
+United States,Idaho,0.907,79.45,39.3,16.3,13.5,HIGH
+United States,Illinois,0.929,78.95,60.06,16.5,13.6,VERY HIGH
+United States,Indiana,0.906,77.55,50.28,16.2,13.3,VERY HIGH
+United States,Iowa,0.928,79.65,55.85,16.5,13.6,VERY HIGH
+United States,Kansas,0.922,78.65,52.13,16.7,13.7,VERY HIGH
+United States,Kentucky,0.881,75.95,43.22,15.7,12.9,HIGH
+United States,Louisiana,0.885,75.65,48.72,15.7,12.9,VERY HIGH
+United States,Maine,0.914,79.15,43.15,16.6,13.7,HIGH
+United States,Maryland,0.935,78.75,61.53,16.9,13.9,VERY HIGH
+United States,Massachusetts,0.956,80.45,72.85,17.1,14.1,VERY HIGH
+United States,Michigan,0.912,78.15,48.11,16.5,13.6,VERY HIGH
+United States,Minnesota,0.947,81.05,59.63,17,14,VERY HIGH
+United States,Mississippi,0.863,74.95,35.31,15.5,12.8,HIGH
+United States,Missouri,0.905,77.45,48.05,16.3,13.4,VERY HIGH
+United States,Montana,0.917,78.45,43.63,16.9,14,HIGH
+United States,Nebraska,0.934,79.75,58.97,16.7,13.7,VERY HIGH
+United States,Nevada,0.902,78.05,48.61,15.9,13.1,VERY HIGH
+United States,New Hampshire,0.943,80.25,57.5,17,14,VERY HIGH
+United States,New Jersey,0.943,80.25,63.4,16.8,13.9,VERY HIGH
+United States,New Mexico,0.9,78.35,45.85,15.9,13.1,HIGH
+United States,New York,0.942,80.45,71.77,16.4,13.5,VERY HIGH
+United States,North Carolina,0.905,77.75,49.17,16.1,13.3,VERY HIGH
+United States,North Dakota,0.942,79.45,69.82,16.7,13.8,VERY HIGH
+United States,Ohio,0.913,77.75,52.78,16.4,13.5,VERY HIGH
+United States,Oklahoma,0.894,75.85,49.5,16.1,13.3,VERY HIGH
+United States,Oregon,0.929,79.45,56.15,16.6,13.7,VERY HIGH
+United States,Pennsylvania,0.922,78.45,56.61,16.5,13.6,VERY HIGH
+United States,Rhode Island,0.92,79.85,52.86,16.2,13.3,VERY HIGH
+United States,South Carolina,0.89,76.95,41.08,16,13.2,HIGH
+United States,South Dakota,0.929,79.45,53.35,16.7,13.8,VERY HIGH
+United States,Tennessee,0.892,76.25,47.99,15.9,13.1,VERY HIGH
+United States,Texas,0.909,78.45,59.73,15.7,12.9,VERY HIGH
+United States,Utah,0.93,80.15,49.52,16.8,13.8,HIGH
+United States,Vermont,0.936,80.45,48.75,17.1,14.1,HIGH
+United States,Virginia,0.929,78.95,57.43,16.7,13.7,VERY HIGH
+United States,Washington,0.94,79.85,63.12,16.7,13.8,VERY HIGH
+United States,West Virginia,0.872,75.35,40.25,15.6,12.8,HIGH
+United States,Wisconsin,0.928,79.95,52.45,16.6,13.7,VERY HIGH
+United States,Wyoming,0.932,78.25,65.34,16.7,13.8,VERY HIGH
+Uruguay,Total,0.808,77.77,19.44,16.3,8.73,MEDIUM
+Uruguay,Centro (Durazno and Tacuarembo),0.783,77.77,19.38,15.1,7.73,MEDIUM
+Uruguay,"Centro Sur (Flores, Florida and Lavalleja)",0.807,77.77,19,17.6,7.67,MEDIUM
+Uruguay,"Costa Este (Canelones, Maldonado and Rocha)",0.81,77.77,20.01,16.9,8.38,MEDIUM
+Uruguay,"Litoral Norte (Paysandu, Salto and Rio Negro)",0.768,77.77,19.02,13.8,7.8,MEDIUM
+Uruguay,"Litoral Sur (Soriano, Colonia and San Jose)",0.775,77.77,18.84,14.7,7.64,MEDIUM
+Uruguay,Montevideo and Metropolitan area,0.824,77.77,19.66,17,9.57,MEDIUM
+Uruguay,"Norte (Artigas, Rivera, Cerro Largo and Trienta y Tres)",0.776,77.77,18.57,15.2,7.37,MEDIUM
+Venezuela,Total,0.726,72.13,9.07,12.8,10.3,LOW
+Venezuela,Amacuros Delta Federal Territory,0.71,72.52,7.213,12.6,10.1,LOW
+Venezuela,Amazonas Federal Territory,0.707,68.39,7.789,13.2,10.7,LOW
+Venezuela,Anzoategui,0.737,73.37,9.222,12.8,10.8,LOW
+Venezuela,Apure,0.653,72.58,5.009,11.3,8.01,LOW
+Venezuela,Aragua,0.752,73.24,10.58,13.3,11,LOW
+Venezuela,Barinas,0.671,71.9,6.473,11.7,8.25,LOW
+Venezuela,Bolivar,0.729,72.02,8.801,12.6,11,LOW
+Venezuela,Carabobo,0.747,72.66,10.35,13,11.2,LOW
+Venezuela,Cojedes,0.702,71.29,7.682,12.7,9.47,LOW
+Venezuela,Falcon,0.715,72.71,8.209,12.8,9.69,LOW
+Venezuela,Federal District,0.772,72.09,12.71,13.8,12,LOW
+Venezuela,Guarico,0.687,72.53,6.66,12.3,8.73,LOW
+Venezuela,Lara,0.705,71.63,7.778,12.7,9.58,LOW
+Venezuela,Merida,0.714,71.71,8.764,13.3,9.23,LOW
+Venezuela,Miranda,0.758,72.22,11.42,13.3,11.7,LOW
+Venezuela,Monagas,0.717,72.06,8.151,12.6,10.2,LOW
+Venezuela,Nueva Esparta,0.746,72.67,10.72,12.9,11,LOW
+Venezuela,Portuguesa,0.672,70.74,6.602,11.8,8.53,LOW
+Venezuela,Sucre,0.694,71.89,7.499,12.8,8.61,LOW
+Venezuela,Tachira,0.723,72.76,9.423,13,9.5,LOW
+Venezuela,Trujillo,0.694,72.38,7.406,12.7,8.54,LOW
+Venezuela,Vargas,0.746,73.91,10.34,12.7,10.8,LOW
+Venezuela,Yaracuy,0.691,71.42,7.332,12.4,9.03,LOW
+Venezuela,Zulia,0.711,71.28,8.515,12.5,10,LOW
+Vietnam,Total,0.693,75.32,6.22,12.7,8.2,LOW
+Vietnam,Central Highlands,0.644,74.37,5.153,11.1,6.91,LOW
+Vietnam,Mekong River Delta,0.655,76.88,5.29,11.9,6.23,LOW
+Vietnam,North Central Coast and South Central Coast,0.694,76.27,5.75,12.9,8.24,LOW
+Vietnam,"North East, North West",0.649,72.29,4.866,11.7,7.67,LOW
+Vietnam,Red River Delta,0.736,75.29,7.471,14,9.92,LOW
+Vietnam,South East,0.725,76.7,8.287,13.2,8.69,LOW
+Yemen,Total,0.462,66.1,1.433,8.66,3.2,LOW
+Yemen,"Abyan, Aden (town and countryside), Lahej, Ad Dali (Al Dhalih)",0.513,68.1,1.957,9.44,4.33,LOW
+Yemen,"Beida (Al Bayda), Dhamar, Raimah",0.416,64.24,1.125,7.53,2.36,LOW
+Yemen,"Hajja, Sada, Amran (Omran)",0.402,66.45,0.918,7.41,1.94,LOW
+Yemen,"Hodeida (Al Hudaydah), Mahweit (Al Mahwit)",0.414,64.94,1.031,7.6,2.41,LOW
+Yemen,Ibb,0.457,65.58,1.457,8.98,2.62,LOW
+Yemen,"Jawf, Hadramet, Shabda (Shabwah), Marib, Mohra (Al Mahrah)",0.513,68.81,2.285,9.27,3.67,LOW
+Yemen,"Sana a (capital; Al Amana), Sana a (governorate)",0.529,66.97,2.503,9.8,4.47,LOW
+Yemen,Taiz,0.478,65.77,1.336,9.84,3.68,LOW
+Zambia,Total,0.592,63.51,3.582,12.1,7.1,LOW
+Zambia,Central,0.585,66,3.213,11,7.03,LOW
+Zambia,Copperbelt,0.658,65.64,6.174,13,8.66,LOW
+Zambia,Eastern,0.533,63.55,2.628,10.3,5.15,LOW
+Zambia,Luapula,0.52,57.77,2.408,10.7,6.11,LOW
+Zambia,Lusaka,0.664,63.56,7.151,13.7,8.92,LOW
+Zambia,North-Western,0.61,69.33,2.869,13.1,6.78,LOW
+Zambia,Northern,0.546,62.8,2.329,11.8,5.8,LOW
+Zambia,Southern,0.589,62.69,3.224,12.6,7.27,LOW
+Zambia,Western,0.542,64.49,1.953,11.8,5.71,LOW
+Zimbabwe,Total,0.563,61.2,2.661,10.5,8.34,LOW
+Zimbabwe,Bulawayo,0.67,65.69,6.984,11.5,10.5,LOW
+Zimbabwe,Harare,0.645,64.48,4.788,11.3,10.8,LOW
+Zimbabwe,Manicaland,0.525,57.66,2.23,10.3,7.43,LOW
+Zimbabwe,Mashonaland Central,0.519,60.3,1.876,9.89,7,LOW
+Zimbabwe,Mashonaland East,0.539,58.88,2.316,10.3,7.89,LOW
+Zimbabwe,Mashonaland West,0.548,58.91,2.453,10.5,8.3,LOW
+Zimbabwe,Masvingo,0.559,63.47,2.204,10.9,7.7,LOW
+Zimbabwe,Matebeleland North,0.528,63.16,1.876,9.85,6.75,LOW
+Zimbabwe,Matebeleland South,0.537,63.44,2.232,9.15,7.19,LOW
+Zimbabwe,Midlands,0.561,62.49,2.461,10.1,8.3,LOW
+,,,,,,,
+,,,,,,,
+,,,,,,,​
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,​
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,​

@@ -1,0 +1,69 @@
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="static/bootstrap.min.css" rel="stylesheet" media="screen">
+  <link rel="stylesheet" href="{{ url_for('static', filename='change.css') }}"/>
+  <title>
+    Update
+  </title>
+</head>
+<body>
+
+ 
+  <p class="headline"><b>Update Site Information</b></p>
+  <form method="POST">
+    <label><b> Password</b></label>
+    <input type="text" name="password" value={{password}} >
+    <br>
+    <label><b> Contact Information</b></label>
+    <input type="text" name="contact" value={{contact}}>
+    <br>
+    <label><b>Update Project information</b></label>
+    <input type="text" name="project" value={{project}}>
+    <br>
+   <div class="b1">
+     <button type="submit" class="btn btn-primary btn-block btn-large">Submit</button>
+    </div>
+    
+  </div>
+  </form>
+
+
+
+<div>
+  		<nav id="sidenav">
+  			<ul>
+  				<li><a href="{{url_for('hello_world')}}">HOME</a></li>
+  	
+    <li><a href="{{url_for('compare')}}">Compare between</a></li>
+	<li><a href="{{url_for('description')}}">More About HDI</a></li>
+  				<li><a href="{{url_for('admin_login')}}">Admin login</a></li>
+  				
+  			</ul>
+  		</nav>
+  	</div>
+    	<div id="menubtn">
+    		<img src="{{ url_for('static', filename='images/menu.png') }}" id="menu">
+    	</div>
+
+    	<script>
+    		var menubtn = document.getElementById("menubtn")
+    		var sidenav = document.getElementById("sidenav")
+    		var menu = document.getElementById("menu")
+
+    		menubtn.onclick = function(){
+    			if(sidenav.style.right == "-250px"){
+    				sidenav.style.right = "0";
+    				menu.src = "{{ url_for('static', filename='images/close.png') }}";
+    			}
+    			else{
+    				sidenav.style.right = "-250px";
+    				menu.src = "{{ url_for('static', filename='images/menu.png') }}";
+    			}
+    		}
+    	</script>
+    	
+    	</body>
+
+</html>

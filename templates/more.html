@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" href="{{ url_for('static', filename='table.css')}}"/>
+	<title>More about {{state}} and it's HDI classification</title>
+</head>
+<body>
+
+	<!--sidenav-->
+
+	<div>
+		<nav id="sidenav">
+			<ul>
+				<li><a href="{{url_for('hello_world')}}">HOME</a></li>
+				
+<li><a href="{{url_for('compare')}}">Compare between</a></li>
+<li><a href="{{url_for('description')}}">More About HDI</a></li>
+				<li><a href="{{url_for('admin_login')}}">Admin login</a></li>
+				
+			</ul>
+		</nav>
+	</div>
+	  <div id="menubtn">
+		  <img src="{{ url_for('static', filename='images/menu.png') }}" id="menu">
+	  </div>
+	  
+
+	<div class="headline">
+	  <p>{{state}}</p>
+	</div>
+	<table class="container">
+		<thread>
+		<tr>
+			<th><h1>Region</h1></th>
+			<th><h1>HDI</h1></th>
+			<th><h1>LE</h1></th>
+			<th><h1>GNI</h1></th>
+			<th><h1>EYS</h1></th>
+			<th><h1>MYS</h1></th>
+			<th><h1>LEVEL</h1></th>
+		</tr>
+	</thread>
+	
+		{% for entry in entries %}
+		<tbody>
+		<tr>
+			<td>{{entry[0]}}</td>
+			<td>{{entry[1]}}</td>
+			<td>{{entry[2]}}</td>
+			<td>{{entry[3]}}</td>
+			<td>{{entry[4]}}</td>
+			<td>{{entry[5]}}</td>
+			<td>{{entry[6]}}</td>
+		</tr>
+	</tbody>
+		{% endfor %}
+	
+	</table>
+
+	<script>
+		var menubtn = document.getElementById("menubtn")
+		var sidenav = document.getElementById("sidenav")
+		var menu = document.getElementById("menu")
+
+		menubtn.onclick = function(){
+			if(sidenav.style.right == "-250px"){
+				sidenav.style.right = "0";
+				menu.src = "{{ url_for('static', filename='images/close.png') }}";
+			}
+			else{
+				sidenav.style.right = "-250px";
+				menu.src = "{{ url_for('static', filename='images/menu.png') }}";
+			}
+		}
+	</script>
+
+</body>
+</html>

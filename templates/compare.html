@@ -1,0 +1,656 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <link rel="shortcut icon" href="http://172.16.37.10/favicon.png">
+  <meta charset="utf-8" /> 
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0" /> 
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+
+  <link rel="shortcut icon" href="http://172.16.37.10/favicon.png">
+  <link rel="stylesheet" href="{{ url_for('static', filename='design.css') }}"/>
+  
+  
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+  <script src="http://code.highcharts.com/highcharts.js"></script>
+  <script src="http://code.highcharts.com/highcharts-more.js"></script>
+  <script src="http://code.highcharts.com/modules/exporting.js"></script>
+
+  <!-- Latest compiled and minified JavaScript -->
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+
+  
+
+</head>
+
+<body class="bd">
+
+  <div class="sticky">
+<form method="POST">
+  <input type="text" name="country1" list="suggestions">
+  <input type="text" name="country2" list="suggestions">
+  <button type="submit" name="show" class="btn">Show</button>
+</form>
+</div>
+
+<div>
+  <p>
+    <h1 class="headline"><b>Comparison between {{country1}} and {{country2}}</b></h1>
+    
+  </p>
+</div>
+
+<div id="mydiv"></div>
+
+<div>
+	<nav id="sidenav">
+		<ul>
+			<li><a href="{{url_for('hello_world')}}">HOME</a></li>
+<datalist id="suggestions">
+<option value="Afghanistan">Afghanistan</option>
+<option value="Algeria">Algeria</option>
+<option value="Argentina">Argentina</option>
+<option value="Australia">Australia</option>
+<option value="Austria">Austria</option>
+<option value="Bahrain">Bahrain</option>
+<option value="Bangladesh">Bangladesh</option>
+<option value="Barbados">Barbados</option>
+<option value="Belgium">Belgium</option>
+<option value="Bolivia">Bolivia</option>
+<option value="Brazil">Brazil</option>
+<option value="Bulgaria">Bulgaria</option>
+<option value="Burundi">Burundi</option>
+<option value="Cameroon">Cameroon</option>
+<option value="Canada">Canada</option>
+<option value="Central African Republic CAR">Central African Republic CAR</option>
+<option value="Chili">Chili</option>
+<option value="China">China</option>
+<option value="Colombia">Colombia</option>
+<option value="Costa Rica">Costa Rica</option>
+<option value="Croatia">Croatia</option>
+<option value="Cuba">Cuba</option>
+<option value="Cyprus">Cyprus</option>
+<option value="Denmark">Denmark</option>
+<option value="Dominican Republic">Dominican Republic</option>
+<option value="Ecuador">Ecuador</option>
+<option value="Egypt">Egypt</option>
+<option value="El Salvador">El Salvador</option>
+<option value="Ethiopia">Ethiopia</option>
+<option value="Fiji">Fiji</option>
+<option value="Finland">Finland</option>
+<option value="France">France</option>
+<option value="Gambia">Gambia</option>
+<option value="Germany">Germany</option>
+<option value="Ghana">Ghana</option>
+<option value="Greece">Greece</option>
+<option value="Haiti">Haiti</option>
+<option value="Honduras">Honduras</option>
+<option value="Hungary">Hungary</option>
+<option value="Iceland">Iceland</option>
+<option value="India">India</option>
+<option value="Indonesia">Indonesia</option>
+<option value="Iran">Iran</option>
+<option value="Iraq">Iraq</option>
+<option value="Ireland">Ireland</option>
+<option value="Italy">Italy</option>
+<option value="Jamaica">Jamaica</option>
+<option value="Japan">Japan</option>
+<option value="Jordan">Jordan</option>
+<option value="Kenya">Kenya</option>
+<option value="Kuwait">Kuwait</option>
+<option value="Lao">Lao</option>
+<option value="Latvia">Latvia</option>
+<option value="Lesotho">Lesotho</option>
+<option value="Libya">Libya</option>
+<option value="Malaysia">Malaysia</option>
+<option value="Mauritius">Mauritius</option>
+<option value="Mexico">Mexico</option>
+<option value="Morocco">Morocco</option>
+<option value="Mozambique">Mozambique</option>
+<option value="Myanmar">Myanmar</option>
+<option value="Nepal">Nepal</option>
+<option value="Netherlands">Netherlands</option>
+<option value="New Zealand">New Zealand</option>
+<option value="Niger">Niger</option>
+<option value="Norway">Norway</option>
+<option value="Pakistan">Pakistan</option>
+<option value="Paraguay">Paraguay</option>
+<option value="Peru">Peru</option>
+<option value="Philippines">Philippines</option>
+<option value="Poland">Poland</option>
+<option value="Portugal">Portugal</option>
+<option value="Qatar">Qatar</option>
+<option value="Romania">Romania</option>
+<option value="Russian Federation">Russian Federation</option>
+<option value="Rwanda">Rwanda</option>
+<option value="Saudi Arabia">Saudi Arabia</option>
+<option value="Senegal">Senegal</option>
+<option value="Singapore">Singapore</option>
+<option value="South Africa">South Africa</option>
+<option value="South Korea">South Korea</option>
+<option value="Spain">Spain</option>
+<option value="Sri Lanka">Sri Lanka</option>
+<option value="Sudan">Sudan</option>
+<option value="Sweden">Sweden</option>
+<option value="Switzerland">Switzerland</option>
+<option value="Tanzania">Tanzania</option>
+<option value="Thailand">Thailand</option>
+<option value="Turkey">Turkey</option>
+<option value="United Arab Emirates">United Arab Emirates</option>
+<option value="United Kingdom">United Kingdom</option>
+<option value="United States">United States</option>
+<option value="Uruguay">Uruguay</option>
+<option value="Venezuela">Venezuela</option>
+<option value="Vietnam">Vietnam</option>
+<option value="Yemen">Yemen</option>
+<option value="Zambia">Zambia</option>
+<option value="Zimbabwe">Zimbabwe</option>
+</datalist>
+<!--li>
+<label>Search your country</label>
+<form name="state" method="POST">
+<input type="text" autoComplete="on" list="suggestions" name="state" required="required" />
+<button class="button" style="vertical-align:middle"><span>Show </span></button>
+</form>
+</li-->
+<li><a href="{{url_for('compare')}}">Compare between</a></li>
+<li><a href="{{url_for('description')}}">More About HDI</a></li>
+			<li><a href="{{url_for('admin_login')}}">Admin login</a></li>
+			
+		</ul>
+	</nav>
+</div>
+  <div id="menubtn">
+	  <img src="{{ url_for('static', filename='images/menu.png') }}" id="menu">
+  </div>
+  <script>
+	  var menubtn = document.getElementById("menubtn")
+	  var sidenav = document.getElementById("sidenav")
+	  var menu = document.getElementById("menu")
+
+	  menubtn.onclick = function(){
+		  if(sidenav.style.right == "-250px"){
+			  sidenav.style.right = "0";
+			  menu.src = "{{ url_for('static', filename='images/close.png') }}";
+		  }
+		  else{
+			  sidenav.style.right = "-250px";
+			  menu.src = "{{ url_for('static', filename='images/menu.png') }}";
+		  }
+	  }
+  </script>
+
+  
+  <figure class="highcharts-figure">
+    <div id="container"></div>
+  </figure>
+
+  <figure class="highcharts-figure1">
+    <div id="container1"></div>
+  </figure>
+
+  <figure class="highcharts-figure2">
+    <div id="container2"></div>
+  </figure>
+
+  <figure class="highcharts-figure1">
+    <div id="container3"></div>
+  </figure>
+
+  <figure class="highcharts-figure2">
+    <div id="container4"></div>
+  </figure>
+
+
+<script>
+
+$('.btn').click(function() {
+    $('.know').toggleClass('hidden');
+});
+
+$('.btn').click(function() {
+    $('.know').show();
+});
+
+    var data = null;
+    function requestData()
+    {
+      $.ajax({
+        url: "/live-data1",
+        type : 'GET',
+        cache: false,
+        success: function(html)
+        {
+          var data = html[0];
+          var data1 = html[1];
+          var data2 = html[2];
+          var data3 = html[3];
+          var data4 = html[4];
+          var data5 = html[5];
+          var data6 = html[6];
+          var data7 = html[7];
+          var data8 = html[8];
+          var data9 = html[9];
+
+          Highcharts.chart('container', {
+            title: {
+              text: 'Human Development Index',
+              style: {
+                    color: '#fff'
+                },
+            },
+            yAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              title: {
+                text: 'Values',
+                style: {
+                    color: '#fff'
+                },
+              }
+            },
+            xAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              accessibility: {
+                rangeDescription: 'Range: 2010 to 2017'
+              }
+            },
+            chart: {
+              backgroundColor: {
+                linearGradient: [0, 0, 0, 0.5],
+                stops: [
+                    [0, 'rgba(0,0,0,0.5)'],
+                    [1, 'rgba(0,0,0,0.5)']
+                ],
+            },
+        },
+            legend: {
+              layout: 'vertical',
+              align: 'right',
+              verticalAlign: 'middle'
+            },
+            plotOptions: {
+              series: {
+               
+                label: {
+                  connectorAllowed: false
+                },
+                pointStart: 1990
+              }
+            },
+            series: [{
+              name: 'Country 1',
+              data: data
+            },
+
+            {
+              color: '#f7a35c',
+              name:'Country 2',
+              data: data5
+            }
+            ],
+            responsive: {
+              rules: [{
+                condition: {
+                  maxWidth: 500
+                },
+                chartOptions: {
+                  legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                  }
+                }
+              }]
+            }
+          })
+
+          Highcharts.chart('container1', {
+            title: {
+              text: 'Gross National Income',
+              style: {
+                    color: '#fff'
+                },
+            },
+            
+            yAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              title: {
+                text: 'Thousand US Dollar',
+                style: {
+                    color: '#fff'
+                },
+              }
+            },
+            xAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              accessibility: {
+                rangeDescription: 'Range: 2010 to 2017'
+              }
+            },
+            chart: {
+              backgroundColor: {
+                linearGradient: [0, 0, 0, 0.5],
+                stops: [
+                    [0, 'rgba(0,0,0,0.5)'],
+                    [1, 'rgba(0,0,0,0.5)']
+                ],
+            },
+        },
+            legend: {
+              layout: 'vertical',
+              align: 'right',
+              verticalAlign: 'middle'
+            },
+            plotOptions: {
+              series: {
+                label: {
+                  connectorAllowed: false
+                },
+                pointStart: 1990
+              }
+            },
+            series: [{
+              name: 'Country 1',
+              data: data1
+            },
+
+            {
+              color: '#f7a35c',
+              name:'Country 2',
+              data: data6
+            }
+            ],
+            responsive: {
+              rules: [{
+                condition: {
+                  maxWidth: 500
+                },
+                chartOptions: {
+                  legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                  }
+                }
+              }]
+            }
+          })
+
+          Highcharts.chart('container2', {
+            title: {
+              text: 'Life Expectency',
+              style: {
+                    color: '#fff'
+                },
+            },
+            yAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              title: {
+                text: 'Years',
+                style: {
+                    color: '#fff'
+                },
+              }
+            },
+            xAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              accessibility: {
+                rangeDescription: 'Range: 2010 to 2017'
+              }
+            },
+            chart: {
+              backgroundColor: {
+                linearGradient: [0, 0, 0, 0.5],
+                stops: [
+                    [0, 'rgba(0,0,0,0.5)'],
+                    [1, 'rgba(0,0,0,0.5)']
+                ],
+            },
+        },
+            legend: {
+              layout: 'vertical',
+              align: 'right',
+              verticalAlign: 'middle'
+            },
+            plotOptions: {
+              series: {
+                label: {
+                  connectorAllowed: false
+                },
+                pointStart: 1990
+              }
+            },
+            series: [{
+              name: 'Country 1',
+              data: data2
+            },
+
+            {
+              color: '#f7a35c',
+              name: 'Country 2',
+              data: data7
+            }
+            ],
+            responsive: {
+              rules: [{
+                condition: {
+                  maxWidth: 500
+                },
+                chartOptions: {
+                  legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                  }
+                }
+              }]
+            }
+          })
+
+                Highcharts.chart('container3', {
+            title: {
+              text: 'Expected years of schooling',
+              style: {
+                    color: '#fff'
+                },
+            },
+            
+            yAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              title: {
+                text: 'Years',
+                style: {
+                    color: '#fff'
+                },
+              }
+            },
+            xAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              accessibility: {
+                rangeDescription: 'Range: 2010 to 2017'
+              }
+            },
+            chart: {
+              backgroundColor: {
+                linearGradient: [0, 0, 0, 0.5],
+                stops: [
+                    [0, 'rgba(0,0,0,0.5)'],
+                    [1, 'rgba(0,0,0,0.5)']
+                ],
+            },
+        },
+            legend: {
+              layout: 'vertical',
+              align: 'right',
+              verticalAlign: 'middle'
+            },
+            plotOptions: {
+              series: {
+                label: {
+                  connectorAllowed: false
+                },
+                pointStart: 1990
+              }
+            },
+            series: [{
+              name: 'Country 1',
+              data: data3
+            },
+
+            {
+              color: '#f7a35c',
+              name:'Country 2',
+              data: data8
+            }
+            ],
+            responsive: {
+              rules: [{
+                condition: {
+                  maxWidth: 500
+                },
+                chartOptions: {
+                  legend: {
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                  }
+                }
+              }]
+            }
+          })
+
+
+
+
+          Highcharts.chart('container4', {
+            title: {
+              text: 'Expected years of schooling',
+              style: {
+                    color: '#fff'
+                },
+            },
+            
+            yAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              title: {
+                text: 'Years',
+                style: {
+                    color: '#fff'
+                },
+              }
+            },
+            xAxis: {
+              labels:  {
+                style: {
+                    color: '#fff'
+                },
+            },
+              accessibility: {
+                rangeDescription: 'Range: 2010 to 2017'
+              }
+            },
+            chart: {
+              backgroundColor: {
+                linearGradient: [0, 0, 0, 0.5],
+                stops: [
+                    [0, 'rgba(0,0,0,0.5)'],
+                    [1, 'rgba(0,0,0,0.5)']
+                ],
+            },
+        },
+            legend: {
+              layout: 'vertical',
+              align: 'right',
+              verticalAlign: 'middle'
+            },
+            plotOptions: {
+              series: {
+                label: {
+                  connectorAllowed: false
+                },
+                pointStart: 1990
+              }
+            },
+            series: [{
+              name: 'Country 1',
+              data: data4
+            },
+            {
+              color: '#f7a35c',
+              name:'Country 2',
+              data : data9
+            }
+            ],
+            responsive: {
+              rules: [{
+                condition: {
+                  maxWidth: 500
+                },
+              
+                chartOptions: {
+                  legend: {
+                    
+                    layout: 'horizontal',
+                    align: 'center',
+                    verticalAlign: 'bottom'
+                  }
+                }
+              }]
+            }
+          })
+        }
+      });
+  }
+  
+
+  $(document).ready(function() {
+    requestData();
+  });
+
+  setTimeout(function() {
+    $('#mydiv').fadeOut('fast');
+}, 40000);
+
+</script>
+</body>
+</html>

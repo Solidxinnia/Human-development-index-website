@@ -1,0 +1,82 @@
+<html>
+  <head>
+  
+    <title>Flask Intro - login page</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="{{ url_for('static', filename='login.css') }}"/>
+    
+  </head>
+  <body>
+
+    <div class="login">
+      <h1>Please login</h1>
+      <br>
+      <form action="" method="post">
+        <input type="text" placeholder="Username" name="name">
+         <input type="password" placeholder="Password" name="password">
+        
+        <button type="submit" class="btn btn-primary btn-block btn-large">Login</button>
+      </form>
+      {% if error %}
+        <p class="error"><strong>Wrong Username or password</strong>
+      {% endif %}
+    </div>
+
+  <div>
+  		<nav id="sidenav">
+  			<ul>
+  				<li><a href="{{url_for('hello_world')}}">HOME</a></li>
+  				
+          <li><a href="{{url_for('compare')}}">Compare between</a></li>
+		  <li><a href="{{url_for('description')}}">More About HDI</a></li>
+  				<li><a href="{{url_for('admin_login')}}">Admin login</a></li>
+  				
+  			</ul>
+  		</nav>
+  	</div>
+    	<div id="menubtn">
+    		<img src="{{ url_for('static', filename='images/menu.png') }}" id="menu">
+    	</div>
+    	<script>
+    		var menubtn = document.getElementById("menubtn")
+    		var sidenav = document.getElementById("sidenav")
+    		var menu = document.getElementById("menu")
+
+    		menubtn.onclick = function(){
+    			if(sidenav.style.right == "-250px"){
+    				sidenav.style.right = "0";
+    				menu.src = "{{ url_for('static', filename='images/close.png') }}";
+    			}
+    			else{
+    				sidenav.style.right = "-250px";
+    				menu.src = "{{ url_for('static', filename='images/menu.png') }}";
+    			}
+    		}
+    	</script>
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

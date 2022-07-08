@@ -1,0 +1,594 @@
+  <!DOCTYPE html>
+  <html>
+  <style>
+    a {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+  </style>
+  <head>
+  	<title>Home Page</title>
+   <!-- <link rel="stylesheet" href="{{ url_for('static', filename='description.css') }}"/>-->
+  	<link rel="stylesheet" href="{{ url_for('static', filename='design.css') }}"/>
+  	<meta name="viewport" content="width = device-width, initial-scale = 1">
+  	<script src="https://cdn.jsdelivr.net/npm/chart.js@2.9.4/dist/Chart.min.js"></script>
+  </head>
+  <body>
+
+  	<section id="banner">
+  		<div class="banner-text">
+  			<h1>Human Development Index</h1>
+  			<p>Your country's development visualization in a nutshell!</p>
+  			<div class="banner-btn">
+  				<a href="#options"><span></span>Explore</a>
+  				<a href="{{url_for('description')}}"><span></span>Learn more</a> 
+  			</div>
+  		</div>
+  	</section>
+
+  	<div>
+  	<nav id="sidenav">
+  		<ul>
+  			<li><a href="{{url_for('hello_world')}}">HOME</a></li>
+  			<datalist id="suggestions">
+          <option value="Afghanistan">Afghanistan</option>
+          <option value="Algeria">Algeria</option>
+          <option value="Argentina">Argentina</option>
+          <option value="Australia">Australia</option>
+          <option value="Austria">Austria</option>
+          <option value="Bahrain">Bahrain</option>
+          <option value="Bangladesh">Bangladesh</option>
+          <option value="Barbados">Barbados</option>
+          <option value="Belgium">Belgium</option>
+          <option value="Bolivia">Bolivia</option>
+          <option value="Brazil">Brazil</option>
+          <option value="Bulgaria">Bulgaria</option>
+          <option value="Burundi">Burundi</option>
+          <option value="Cameroon">Cameroon</option>
+          <option value="Canada">Canada</option>
+          <option value="Central African Republic CAR">Central African Republic CAR</option>
+          <option value="Chili">Chili</option>
+          <option value="China">China</option>
+          <option value="Colombia">Colombia</option>
+          <option value="Costa Rica">Costa Rica</option>
+          <option value="Croatia">Croatia</option>
+          <option value="Cuba">Cuba</option>
+          <option value="Cyprus">Cyprus</option>
+          <option value="Denmark">Denmark</option>
+          <option value="Dominican Republic">Dominican Republic</option>
+          <option value="Ecuador">Ecuador</option>
+          <option value="Egypt">Egypt</option>
+          <option value="El Salvador">El Salvador</option>
+          <option value="Ethiopia">Ethiopia</option>
+          <option value="Fiji">Fiji</option>
+          <option value="Finland">Finland</option>
+          <option value="France">France</option>
+          <option value="Gambia">Gambia</option>
+          <option value="Germany">Germany</option>
+          <option value="Ghana">Ghana</option>
+          <option value="Greece">Greece</option>
+          <option value="Haiti">Haiti</option>
+          <option value="Honduras">Honduras</option>
+          <option value="Hungary">Hungary</option>
+          <option value="Iceland">Iceland</option>
+          <option value="India">India</option>
+          <option value="Indonesia">Indonesia</option>
+          <option value="Iran">Iran</option>
+          <option value="Iraq">Iraq</option>
+          <option value="Ireland">Ireland</option>
+          <option value="Italy">Italy</option>
+          <option value="Jamaica">Jamaica</option>
+          <option value="Japan">Japan</option>
+          <option value="Jordan">Jordan</option>
+          <option value="Kenya">Kenya</option>
+          <option value="Kuwait">Kuwait</option>
+          <option value="Lao">Lao</option>
+          <option value="Latvia">Latvia</option>
+          <option value="Lesotho">Lesotho</option>
+          <option value="Libya">Libya</option>
+          <option value="Malaysia">Malaysia</option>
+          <option value="Mauritius">Mauritius</option>
+          <option value="Mexico">Mexico</option>
+          <option value="Morocco">Morocco</option>
+          <option value="Mozambique">Mozambique</option>
+          <option value="Myanmar">Myanmar</option>
+          <option value="Nepal">Nepal</option>
+          <option value="Netherlands">Netherlands</option>
+          <option value="New Zealand">New Zealand</option>
+          <option value="Niger">Niger</option>
+          <option value="Norway">Norway</option>
+          <option value="Pakistan">Pakistan</option>
+          <option value="Paraguay">Paraguay</option>
+          <option value="Peru">Peru</option>
+          <option value="Philippines">Philippines</option>
+          <option value="Poland">Poland</option>
+          <option value="Portugal">Portugal</option>
+          <option value="Qatar">Qatar</option>
+          <option value="Romania">Romania</option>
+          <option value="Russian Federation">Russian Federation</option>
+          <option value="Rwanda">Rwanda</option>
+          <option value="Saudi Arabia">Saudi Arabia</option>
+          <option value="Senegal">Senegal</option>
+          <option value="Singapore">Singapore</option>
+          <option value="South Africa">South Africa</option>
+          <option value="South Korea">South Korea</option>
+          <option value="Spain">Spain</option>
+          <option value="Sri Lanka">Sri Lanka</option>
+          <option value="Sudan">Sudan</option>
+          <option value="Sweden">Sweden</option>
+          <option value="Switzerland">Switzerland</option>
+          <option value="Tanzania">Tanzania</option>
+          <option value="Thailand">Thailand</option>
+          <option value="Turkey">Turkey</option>
+          <option value="United Arab Emirates">United Arab Emirates</option>
+          <option value="United Kingdom">United Kingdom</option>
+          <option value="United States">United States</option>
+          <option value="Uruguay">Uruguay</option>
+          <option value="Venezuela">Venezuela</option>
+          <option value="Vietnam">Vietnam</option>
+          <option value="Yemen">Yemen</option>
+          <option value="Zambia">Zambia</option>
+          <option value="Zimbabwe">Zimbabwe</option>
+        </datalist>
+        <li>
+          <label>Search your country</label>
+          <form name="state" method="POST">
+            <input type="text" autoComplete="on" list="suggestions" name="state" required="required" />
+            <button class="button" style="vertical-align: middle;"><span>Show </span></button>
+          </form>
+        </li>
+        <li><a href="{{url_for('compare')}}">Compare between</a></li>
+        
+  			<li><a href="{{url_for('description')}}">More About HDI</a></li>
+  			<li><a href="{{url_for('admin_login')}}">Admin login</a></li>
+  			
+  		</ul>
+  	</nav>
+  </div>
+  	<div id="menubtn">
+  		<img src="{{ url_for('static', filename='images/menu.png') }}" id="menu">
+  	</div>
+
+  	<!-- map -->
+
+  <script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+  <script src="https://code.highcharts.com/maps/highmaps.js"></script>
+  <script src="https://code.highcharts.com/mapdata/index.js"></script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.js"></script>
+  <script src="https://www.highcharts.com/samples/static/jquery.combobox.js"></script>
+
+
+
+  <link href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/base/jquery-ui.css" rel="stylesheet">
+  <link href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
+    <title></title>
+
+  <div id="demo-wrapper">
+    <div id="mapBox">
+      <div id="up"></div>
+      <div class="selector">
+        <button id="btn-prev-map" class="prev-next"><i class="fa fa-angle-left"></i></button>
+        <select id="mapDropdown" class="ui-widget combobox"></select>
+        <button id="btn-next-map" class="prev-next"><i class="fa fa-angle-right"></i></button>
+      </div>
+      <div id="container"></div>
+    </div>
+    <div id="sideBox">
+
+      <input type="checkbox" id="chkDataLabels" checked="checked">
+      <label for="chkDataLabels" style="display: inline">Data labels</label>
+      <div id="infoBox">
+        <h4>This map</h4>
+        <div id="download"></div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    
+    /**
+   * This is a complicated demo of Highmaps, not intended to get you up to speed
+   * quickly, but to show off some basic maps and features in one single place.
+   * For the basic demo, check out https://www.highcharts.com/maps/demo/geojson
+   * instead.
+   */
+
+  // Base path to maps
+  var baseMapPath = "https://code.highcharts.com/mapdata/",
+    showDataLabels = false, // Switch for data labels enabled/disabled
+    mapCount = 0,
+    searchText,
+    mapOptions = '';
+
+  // Populate dropdown menus and turn into jQuery UI widgets
+  $.each(Highcharts.mapDataIndex, function (mapGroup, maps) {
+    if (mapGroup !== "version") {
+      mapOptions += '<option class="option-header">' + mapGroup + '</option>';
+      $.each(maps, function (desc, path) {
+        mapOptions += '<option value="' + path + '">' + desc + '</option>';
+        mapCount += 1;
+      });
+    }
+  });
+  searchText = 'Search ' + mapCount + ' maps';
+  mapOptions = '<option value="custom/world.js">' + searchText + '</option>' + mapOptions;
+  $("#mapDropdown").append(mapOptions).combobox();
+
+  // Change map when item selected in dropdown
+  $("#mapDropdown").change(function () {
+    var $selectedItem = $("option:selected", this),
+      mapDesc = $selectedItem.text(),
+      mapKey = this.value.slice(0, -3),
+      svgPath = baseMapPath + mapKey + '.svg',
+      geojsonPath = baseMapPath + mapKey + '.geo.json',
+      javascriptPath = baseMapPath + this.value,
+      isHeader = $selectedItem.hasClass('option-header');
+
+    // Dim or highlight search box
+    if (mapDesc === searchText || isHeader) {
+      $('.custom-combobox-input').removeClass('valid');
+      location.hash = '';
+    } else {
+      $('.custom-combobox-input').addClass('valid');
+      location.hash = mapKey;
+    }
+
+    if (isHeader) {
+      return false;
+    }
+
+    // Show loading
+    if (Highcharts.charts[0]) {
+      Highcharts.charts[0].showLoading('<i class="fa fa-spinner fa-spin fa-2x"></i>');
+    }
+
+
+    // When the map is loaded or ready from cache...
+    function mapReady() {
+
+      var mapGeoJSON = Highcharts.maps[mapKey],
+        data = [],
+        parent,
+        match;
+
+      // Update info box download links
+      $("#download").html(
+        '<a class="button" target="_blank" href="https://jsfiddle.net/gh/get/jquery/1.11.0/' +
+          'highcharts/highcharts/tree/master/samples/mapdata/' + mapKey + '">' +
+          'View clean demo</a>' +
+          '<div class="or-view-as">... or view as ' +
+          '<a target="_blank" href="' + svgPath + '">SVG</a>, ' +
+          '<a target="_blank" href="' + geojsonPath + '">GeoJSON</a>, ' +
+          '<a target="_blank" href="' + javascriptPath + '">JavaScript</a>.</div>'
+      );
+
+      // Generate non-random data for the map
+      $.each(mapGeoJSON.features, function (index, feature) {
+        data.push({
+          key: feature.properties['hc-key'],
+          value: index
+        });
+      });
+
+      // Show arrows the first time a real map is shown
+      if (mapDesc !== searchText) {
+        $('.selector .prev-next').show();
+        $('#sideBox').show();
+      }
+
+      // Is there a layer above this?
+      match = mapKey.match(/^(countries\/[a-z]{2}\/[a-z]{2})-[a-z0-9]+-all$/);
+      if (/^countries\/[a-z]{2}\/[a-z]{2}-all$/.test(mapKey)) { // country
+        parent = {
+          desc: 'World',
+          key: 'custom/world'
+        };
+      } else if (match) { // admin1
+        parent = {
+          desc: $('option[value="' + match[1] + '-all.js"]').text(),
+          key: match[1] + '-all'
+        };
+      }
+      $('#up').html('');
+      if (parent) {
+        $('#up').append(
+          $('<a><i class="fa fa-angle-up"></i> ' + parent.desc + '</a>')
+            .attr({
+              title: parent.key
+            })
+            .click(function () {
+              $('#mapDropdown').val(parent.key + '.js').change();
+            })
+        );
+      }
+
+
+      // Instantiate chart
+      $("#container").highcharts('Map', {
+
+        title: {
+          text: null
+        },
+
+        mapNavigation: {
+          enabled: true
+        },
+
+        colorAxis: {
+          min: 0,
+          stops: [
+            [0, '#EFEFFF'],
+            [0.5, Highcharts.getOptions().colors[0]],
+            [1, Highcharts.color(Highcharts.getOptions().colors[0]).brighten(-0.5).get()]
+          ]
+        },
+
+        legend: {
+          layout: 'vertical',
+          align: 'left',
+          verticalAlign: 'bottom'
+        },
+
+        series: [{
+          data: data,
+          mapData: mapGeoJSON,
+          joinBy: ['hc-key', 'key'],
+          name: 'Random data',
+          states: {
+            hover: {
+              color: Highcharts.getOptions().colors[2]
+            }
+          },
+          dataLabels: {
+            enabled: showDataLabels,
+            formatter: function () {
+              return mapKey === 'custom/world' || mapKey === 'countries/us/us-all' ?
+                (this.point.properties && this.point.properties['hc-a2']) :
+                this.point.name;
+            }
+          },
+          point: {
+            events: {
+              // On click, look for a detailed map
+              click: function () {
+                var key = this.key;
+                $('#mapDropdown option').each(function () {
+                  if (this.value === 'countries/' + key.substr(0, 2) + '/' + key + '-all.js') {
+                    $('#mapDropdown').val(this.value).change();
+                  }
+                });
+              }
+            }
+          }
+        }, {
+          type: 'mapline',
+          name: "Separators",
+          data: Highcharts.geojson(mapGeoJSON, 'mapline'),
+          nullColor: 'gray',
+          showInLegend: false,
+          enableMouseTracking: false
+        }]
+      });
+
+      showDataLabels = $("#chkDataLabels").prop('checked');
+
+    }
+
+    // Check whether the map is already loaded, else load it and
+    // then show it async
+    if (Highcharts.maps[mapKey]) {
+      mapReady();
+    } else {
+      $.getScript(javascriptPath, mapReady);
+    }
+  });
+
+  // Toggle data labels - Note: Reloads map with new random data
+  $("#chkDataLabels").change(function () {
+    showDataLabels = $("#chkDataLabels").prop('checked');
+    $("#mapDropdown").change();
+  });
+
+  // Switch to previous map on button click
+  $("#btn-prev-map").click(function () {
+    $("#mapDropdown option:selected").prev("option").prop("selected", true).change();
+  });
+
+  // Switch to next map on button click
+  $("#btn-next-map").click(function () {
+    $("#mapDropdown option:selected").next("option").prop("selected", true).change();
+  });
+
+  // Trigger change event to load map on startup
+  if (location.hash) {
+    $('#mapDropdown').val(location.hash.substr(1) + '.js');
+  } else { // for IE9
+    $($('#mapDropdown option')[0]).attr('selected', 'selected');
+  }
+  $('#mapDropdown').change();
+  </script>
+
+
+  	<!--Options-->
+  	<section id="options">
+  		<div class="title-text">
+  			<h1>Explore</h1>
+  		</div>
+  		<div class="option-box">
+  			<div class="box">
+  			<img src="{{ url_for('static', filename='images/Bar Graph Exploded View.jpg') }}">
+  				
+  				<div class="overlay"></div>
+  				<div class="description">
+  					<h3>Graph</h3>
+  					<hr>
+            <datalist id="suggestions">
+              <option value="Afghanistan">Afghanistan</option>
+        <option value="Algeria">Algeria</option>
+        <option value="Argentina">Argentina</option>
+        <option value="Australia">Australia</option>
+        <option value="Austria">Austria</option>
+        <option value="Bahrain">Bahrain</option>
+        <option value="Bangladesh">Bangladesh</option>
+        <option value="Barbados">Barbados</option>
+        <option value="Belgium">Belgium</option>
+        <option value="Bolivia">Bolivia</option>
+        <option value="Brazil">Brazil</option>
+        <option value="Bulgaria">Bulgaria</option>
+        <option value="Burundi">Burundi</option>
+        <option value="Cameroon">Cameroon</option>
+        <option value="Canada">Canada</option>
+        <option value="Central African Republic CAR">Central African Republic CAR</option>
+        <option value="Chili">Chili</option>
+        <option value="China">China</option>
+        <option value="Colombia">Colombia</option>
+        <option value="Costa Rica">Costa Rica</option>
+        <option value="Croatia">Croatia</option>
+        <option value="Cuba">Cuba</option>
+        <option value="Cyprus">Cyprus</option>
+        <option value="Denmark">Denmark</option>
+        <option value="Dominican Republic">Dominican Republic</option>
+        <option value="Ecuador">Ecuador</option>
+        <option value="Egypt">Egypt</option>
+        <option value="El Salvador">El Salvador</option>
+        <option value="Ethiopia">Ethiopia</option>
+        <option value="Fiji">Fiji</option>
+        <option value="Finland">Finland</option>
+        <option value="France">France</option>
+        <option value="Gambia">Gambia</option>
+        <option value="Germany">Germany</option>
+        <option value="Ghana">Ghana</option>
+        <option value="Greece">Greece</option>
+        <option value="Haiti">Haiti</option>
+        <option value="Honduras">Honduras</option>
+        <option value="Hungary">Hungary</option>
+        <option value="Iceland">Iceland</option>
+        <option value="India">India</option>
+        <option value="Indonesia">Indonesia</option>
+        <option value="Iran">Iran</option>
+        <option value="Iraq">Iraq</option>
+        <option value="Ireland">Ireland</option>
+        <option value="Italy">Italy</option>
+        <option value="Jamaica">Jamaica</option>
+        <option value="Japan">Japan</option>
+        <option value="Jordan">Jordan</option>
+        <option value="Kenya">Kenya</option>
+        <option value="Kuwait">Kuwait</option>
+        <option value="Lao">Lao</option>
+        <option value="Latvia">Latvia</option>
+        <option value="Lesotho">Lesotho</option>
+        <option value="Libya">Libya</option>
+        <option value="Malaysia">Malaysia</option>
+        <option value="Mauritius">Mauritius</option>
+        <option value="Mexico">Mexico</option>
+        <option value="Morocco">Morocco</option>
+        <option value="Mozambique">Mozambique</option>
+        <option value="Myanmar">Myanmar</option>
+        <option value="Nepal">Nepal</option>
+        <option value="Netherlands">Netherlands</option>
+        <option value="New Zealand">New Zealand</option>
+        <option value="Niger">Niger</option>
+        <option value="Norway">Norway</option>
+        <option value="Pakistan">Pakistan</option>
+        <option value="Paraguay">Paraguay</option>
+        <option value="Peru">Peru</option>
+        <option value="Philippines">Philippines</option>
+        <option value="Poland">Poland</option>
+        <option value="Portugal">Portugal</option>
+        <option value="Qatar">Qatar</option>
+        <option value="Romania">Romania</option>
+        <option value="Russian Federation">Russian Federation</option>
+        <option value="Rwanda">Rwanda</option>
+        <option value="Saudi Arabia">Saudi Arabia</option>
+        <option value="Senegal">Senegal</option>
+        <option value="Singapore">Singapore</option>
+        <option value="South Africa">South Africa</option>
+        <option value="South Korea">South Korea</option>
+        <option value="Spain">Spain</option>
+        <option value="Sri Lanka">Sri Lanka</option>
+        <option value="Sudan">Sudan</option>
+        <option value="Sweden">Sweden</option>
+        <option value="Switzerland">Switzerland</option>
+        <option value="Tanzania">Tanzania</option>
+        <option value="Thailand">Thailand</option>
+        <option value="Turkey">Turkey</option>
+        <option value="United Arab Emirates">United Arab Emirates</option>
+        <option value="United Kingdom">United Kingdom</option>
+        <option value="United States">United States</option>
+        <option value="Uruguay">Uruguay</option>
+        <option value="Venezuela">Venezuela</option>
+        <option value="Vietnam">Vietnam</option>
+        <option value="Yemen">Yemen</option>
+        <option value="Zambia">Zambia</option>
+        <option value="Zimbabwe">Zimbabwe</option>
+          </datalist>
+          <li>
+            <label>Search your country</label>
+            <form name="state" method="POST">
+            <input type="text" autoComplete="on" list="suggestions" name="state" required="required" />
+            <button class="button" style="vertical-align:middle"><span>Show </span></button>
+            </form>
+          </li>
+            <u>Visit page to observe human development prediction through graphical visualization.</u>
+  				</div>
+  			</div>
+  			<div class="box">
+  			<img src="{{ url_for('static', filename='images/data.jpg') }}">
+  				
+  				<div class="overlay"></div>
+  				<div class="description">
+  					<h3>Compare</h3>
+  					<hr>
+            <a href="{{url_for('compare')}}"> <u>Compare between two countries.</u> </a>
+  					
+  				</div>
+  			</div>
+  			<div class="box">
+  			<img src="{{ url_for('static', filename='images/desc.jpg') }}">
+  				
+  				<div class="overlay"></div>
+  				<div class="description">
+  					<h3>Description</h3>
+  					<hr>
+  					<a href="{{url_for('description')}}"><u>Know more about human development Index.</u></a>
+  				</div>
+  			</div>
+  		</div>
+  	</section>
+
+  	<script>
+  		var menubtn = document.getElementById("menubtn")
+  		var sidenav = document.getElementById("sidenav")
+  		var menu = document.getElementById("menu")
+
+  		menubtn.onclick = function(){
+  			if(sidenav.style.right == "-250px"){
+  				sidenav.style.right = "0";
+  				menu.src = "{{ url_for('static', filename='images/close.png') }}";
+  			}
+  			else{
+  				sidenav.style.right = "-250px";
+  				menu.src = "{{ url_for('static', filename='images/menu.png') }}";
+  			}
+  		}
+  	</script>
+
+  	<footer class="footer">
+      <div class="footer__content">
+        
+        <section class="left">
+          <a href="{{url_for('about')}}"><u>About us</u></a>
+          
+        </section>
+        <section class="right">
+          <div class="footer__column">
+            <a href="{{url_for('about')}}"><u>Contact us</u></a>
+            
+          </div>
+        </section>
+      </div>
+    </footer>
+
+  </body>
+  </html>
